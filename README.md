@@ -2,7 +2,7 @@
 
 ## I'm a JavaScript | TypeScript | React Software Engineer interested in 3D animation, creative and interactive app development (Three.js, WebGL)
 
-<img src="https://i.gifer.com/FBZp.gif" width="900" align="center" />
+<img src="https://github.com/sctlcd/sctlcd/blob/main/assets/gifs/FBZp.gif" width="900" align="center" />
 
 ### Interests and/or skills
 <a href="https://www.javascript.com/" target="blank" ><img align="center" alt="JavaScript" src="https://github.com/sctlcd/sctlcd/blob/main/assets/icons/js.png" height="30"/></a>
