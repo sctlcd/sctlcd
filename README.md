@@ -1,4 +1,12 @@
-### Hi there 👋
+# 👋 Hey everyone. I'm Lucinda Souchet. Welcome to my profile page! 👋
+
+## I'm a JavaScript | TypeScript | React Software Engineer interested in 3D animation, creative and interactive app development (Three.js, WebGL)
+
+<div style='position:relative; padding-bottom:calc(51.10% + 44px)'><iframe src='https://gfycat.com/ifr/BewitchedMeanAlligator' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/bewitchedmeanalligator">via Gfycat</a></p>
+
+### Interest and/or skills
+<a href="https://www.javascript.com/" target="blank" ><img align="center" alt="JavaScript" src="https://github.com/sctlcd/sctlcd/blob/main/assets/icons/javascript.svg" height="30"/></a>
+
 
 <!--
 **sctlcd/sctlcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
