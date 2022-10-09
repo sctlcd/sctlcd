@@ -2,17 +2,17 @@
 
 ### I'm a JavaScript | TypeScript | React Software Engineer interested in 3D animation, creative and interactive app development (Three.js, WebGL)
 
-<img src="https://github.com/sctlcd/sctlcd/blob/main/assets/gifs/FBZp-min.gif" width="900" align="center" />
+<img src="https://github.com/sctlcd/sctlcd/blob/main/assets/gifs/FBZp.gif" width="900" align="center" />
 
 ### Interests and/or skills
-<a href="https://www.javascript.com/" target="blank" ><img align="center" alt="JavaScript" src="https://github.com/sctlcd/sctlcd/blob/main/assets/icons/js-min.png" height="30"/></a>
-<a href="https://www.typescriptlang.org/" target="blank" ><img align="center" alt="TypeScript" src="https://github.com/sctlcd/sctlcd/blob/main/assets/icons/typescript-min.png" height="30"/></a>
-<a href="https://reactjs.org/" target="blank" ><img align="center" alt="React.js" src="https://github.com/sctlcd/sctlcd/blob/main/assets/icons/react-min.png" height="30"/></a>
-<a href="https://threejs.org/" target="blank" ><img align="center" alt="Three.js" src="https://github.com/sctlcd/sctlcd/blob/main/assets/icons/threejs.svg" height="30"/></a>
-<a href="https://www.khronos.org/webgl/" target="blank" ><img align="center" alt="WebGL" src="https://github.com/sctlcd/sctlcd/blob/main/assets/icons/webgl.svg" height="30"/></a>
-<a href="https://nodejs.org/en/" target="blank" ><img align="center" alt="Node.js" src="https://github.com/sctlcd/sctlcd/blob/main/assets/icons/nodejs-min.png" height="30"/></a>
-<a href="https://expressjs.com/" target="blank" ><img align="center" alt="Express.js" src="https://github.com/sctlcd/sctlcd/blob/main/assets/expressjs-min.png" height="30"/></a>
-<a href="https://firebase.google.com/" target="blank" ><img align="center" alt="Firebase" src="https://github.com/sctlcd/sctlcd/blob/main/assets/firebase-min.png" height="30"/></a>
+<a href="https://www.javascript.com/" target="_blank" ><img align="left" alt="JavaScript" src="https://github.com/sctlcd/sctlcd/blob/main/assets/icons/js-min.png" width="26px"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" ><img align="left" alt="TypeScript" src="https://github.com/sctlcd/sctlcd/blob/main/assets/icons/typescript-min.png" width="26px"/></a>
+<a href="https://reactjs.org/" target="_blank" ><img align="left" alt="React.js" src="https://github.com/sctlcd/sctlcd/blob/main/assets/icons/react-min.png" width="26px"/></a>
+<a href="https://threejs.org/" target="_blank" ><img align="left" alt="Three.js" src="https://github.com/sctlcd/sctlcd/blob/main/assets/icons/threejs.svg" width="26px"/></a>
+<a href="https://www.khronos.org/webgl/" target="_blank" ><img align="left" alt="WebGL" src="https://github.com/sctlcd/sctlcd/blob/main/assets/icons/webgl.svg" width="26px"/></a>
+<a href="https://nodejs.org/en/" target="_blank" ><img align="left" alt="Node.js" src="https://github.com/sctlcd/sctlcd/blob/main/assets/icons/nodejs-min.png" width="26px"/></a>
+<a href="https://expressjs.com/" target="_blank" ><img align="left" alt="Express.js" src="https://github.com/sctlcd/sctlcd/blob/main/assets/expressjs-min.png" width="26px"/></a>
+<a href="https://firebase.google.com/" target="_blank" ><img align="left" alt="Firebase" src="https://github.com/sctlcd/sctlcd/blob/main/assets/firebase-min.png" width="26px"/></a>
 
 
 ### Credits <a name="credits"></a>
