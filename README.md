@@ -2,10 +2,10 @@
 
 ## I'm a JavaScript | TypeScript | React Software Engineer interested in 3D animation, creative and interactive app development (Three.js, WebGL)
 
-<div style='position:relative; padding-bottom:calc(51.10% + 44px)'><iframe src='https://gfycat.com/ifr/BewitchedMeanAlligator' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/bewitchedmeanalligator">via Gfycat</a></p>
+<img src="https://i.gifer.com/FBZp.gif" width="900" align="center" />
 
-### Interest and/or skills
-<a href="https://www.javascript.com/" target="blank" ><img align="center" alt="JavaScript" src="https://github.com/sctlcd/sctlcd/blob/main/assets/icons/javascript.svg" height="30"/></a>
+### Interests and/or skills
+<a href="https://www.javascript.com/" target="blank" ><img align="center" alt="JavaScript" src="https://github.com/sctlcd/sctlcd/blob/main/assets/icons/js.png" height="30"/></a>
 
 
 <!--
