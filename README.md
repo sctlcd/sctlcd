@@ -1,5 +1,7 @@
-## <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="26rem"> Hey everyone. Welcome to my profile page!
-## I'm Lucinda Souchet. <br />A JavaScript | TypeScript | React Software Engineer interested in 3D animation, creative and interactive app development (Three.js, WebGL) 👩‍💻👩‍🎨
+## <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="26rem" aligh="center"> Hey everyone. Welcome to my profile page!
+
+## I'm Lucinda Souchet. 
+## A JavaScript | TypeScript | React Software Engineer interested in 3D animation, creative and interactive app development (Three.js, WebGL) 👩‍💻👩‍🎨
 
 <div>
   <!--Profile views-->
@@ -14,34 +16,27 @@
 
 <!--Three.js globe gif-->
 <img src="https://github.com/sctlcd/sctlcd/blob/main/assets/gifs/FBZp.gif" width="900" align="center" />
-<br />
 
-### Interests and/or skills
+### 🔧 Interests and/or skills
 
-<a href="https://www.javascript.com/" target="_blank" ><img align="center" alt="JavaScript" src="https://github.com/sctlcd/sctlcd/blob/main/assets/icons/js-min.png" height="32px" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" ><img align="center" alt="TypeScript" src="https://github.com/sctlcd/sctlcd/blob/main/assets/icons/typescript-min.png" height="32px" /></a>
-<a href="https://reactjs.org/" target="_blank" ><img align="center" alt="React.js" src="https://github.com/sctlcd/sctlcd/blob/main/assets/icons/react-min.png" height="32px" /></a>
-<a href="https://threejs.org/" target="_blank" ><img align="center" alt="Three.js" src="https://github.com/sctlcd/sctlcd/blob/main/assets/icons/threejs.svg" height="32px" /></a>
-<a href="https://www.khronos.org/webgl/" target="_blank" ><img align="center" alt="WebGL" src="https://github.com/sctlcd/sctlcd/blob/main/assets/icons/webgl.svg" height="32px" /></a>
-<br />
-<a href="https://nodejs.org/en/" target="_blank" ><img align="center" alt="Node.js" src="https://github.com/sctlcd/sctlcd/blob/main/assets/icons/nodejs-min.png" height="32px" /></a>
-<a href="https://expressjs.com/" target="_blank" ><img align="center" alt="Express.js" src="https://github.com/sctlcd/sctlcd/blob/main/assets/expressjs.svg" height="32px" /></a>
-<a href="https://firebase.google.com/" target="_blank" ><img align="center" alt="Firebase" src="https://github.com/sctlcd/sctlcd/blob/main/assets/firebase.svg" height="32px" /></a>
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&?link=https://www.javascript.com/&label=)
+![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=222222&logo=TypeScript&logoColor=3178C6&label=)
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![Three.js](https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=222222&logo=Three.js&logoColor=000000&label=)
+![WebGL](https://img.shields.io/static/v1?style=for-the-badge&message=WebGL&color=222222&logo=WebGL&logoColor=990000&label=)
+![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=222222&logo=Node.js&logoColor=339933&label=)
+![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=222222&logo=Express&logoColor=000000&label=)
+![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
+![NPM](https://img.shields.io/static/v1?style=for-the-badge&message=NPM&color=222222&logo=NPM&logoColor=CB3837&label=)
+![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=222222&logo=Sass&logoColor=CC6699&label=)
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=222222&logo=HTML5&logoColor=E34F26&label=)
+![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=222222&logo=CSS3&logoColor=00000&label=)
 
-### Credits <a name="credits"></a>
+### 🗣️ Languages
 
-#### Media <a name="media"></a>
+![English](https://img.shields.io/static/v1?style=for-the-badge&message=English&color=222222&label=)
+![French](https://img.shields.io/static/v1?style=for-the-badge&message=French&color=222222&label=)
 
-- [js-min.png](https://www.flaticon.com/free-icon/js_5968292?term=javascript&page=1&position=2&page=1&position=2&related_id=5968292&origin=search) - [Flaticon](https://www.flaticon.com/) | copyright [Freepik](https://www.flaticon.com/authors/freepik)
-- [typescript-min.png](https://www.flaticon.com/free-icon/typescript_5968381?term=typescript&page=1&position=1&page=1&position=1&related_id=5968381&origin=search) - [Flaticon](https://www.flaticon.com/) | copyright [Freepik](https://www.flaticon.com/authors/freepik)
-- [react-min.png](https://www.flaticon.com/free-icon/physics_1126012?term=react&page=1&position=4&page=1&position=4&related_id=1126012&origin=search) - [Flaticon](https://www.flaticon.com/) | copyright [Kiranshastry](https://www.flaticon.com/authors/kiranshastry)
-- [nodejs-min.png](https://www.flaticon.com/free-icon/node-js_5968322?term=node%20js&page=1&position=1&page=1&position=1&related_id=5968322&origin=search) - [Flaticon](https://www.flaticon.com/) | copyright [Freepik](https://www.flaticon.com/authors/freepik)
-- [expressjs-min.png](https://icons8.com/icons/set/express-js) - [Simple Icons](https://simpleicons.org/) | copyright [Simple Icons](https://simpleicons.org/)
-- [firebase-min.png](https://icons8.com/icon/62452/firebase) - [Simple Icons](https://simpleicons.org/) | copyright [Simple Icons](https://simpleicons.org/)
-- [threejs-min.png](https://simpleicons.org/?q=threejs) - [Simple Icons](https://simpleicons.org/) | copyright [Simple Icons](https://simpleicons.org/)
-- [webgl-min.png](https://simpleicons.org/?q=webgl) - [Simple Icons](https://simpleicons.org/) | copyright [Simple Icons](https://simpleicons.org/)
-<!-- - [expressjs-min.png](https://icons8.com/icons/set/express-js) - [Icons8](https://icons8.com/) | copyright [Icons8](https://icons8.com/)
-- [firebase-min.png](https://icons8.com/icon/62452/firebase) - [Icons8](https://icons8.com/) | copyright [Icons8](https://icons8.com/) -->
 
 <!--
 **sctlcd/sctlcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
