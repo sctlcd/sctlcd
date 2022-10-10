@@ -28,13 +28,6 @@
 <a href="https://expressjs.com/" target="_blank" ><img align="center" alt="Express.js" src="https://github.com/sctlcd/sctlcd/blob/main/assets/expressjs.svg" height="32px" /></a>
 <a href="https://firebase.google.com/" target="_blank" ><img align="center" alt="Firebase" src="https://github.com/sctlcd/sctlcd/blob/main/assets/firebase.svg" height="32px" /></a>
 
-<div>
-<img src="https://komarev.com/ghpvc/?username=lucasjolibois54&label=Profile%20views&color=0e75b6&style=flat" alt="sctlcd" />
-
-
-
-
-
 ### Credits <a name="credits"></a>
 
 #### Media <a name="media"></a>
