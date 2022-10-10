@@ -11,11 +11,11 @@
   <img src="https://camo.githubusercontent.com/93ca47e21e17f622a41d26d599e008e4c30b8a322186f18019bc43d54f57b0c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3065373661383f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;" align="center">
   </a>
 </div>
-<br />
+<br/>
 
 <!--Three.js globe gif-->
-<img src="https://github.com/sctlcd/sctlcd/blob/main/assets/gifs/FBZp.gif" width="900" align="center" />
-<br />
+<img src="https://github.com/sctlcd/sctlcd/blob/main/assets/gifs/threejs-first-app.gif" width="900" align="center" />
+<br/><br/>
 
 ## 👩‍💻 About me 👩‍🎨
 
@@ -34,20 +34,20 @@
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=222222&logo=HTML5&logoColor=E34F26&?link=https://html.spec.whatwg.org/&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=222222&logo=CSS3&logoColor=00000&?link=/&label=)
 
-### 🗣️ Languages
+### 💬 Languages
 
 ![English](https://img.shields.io/static/v1?style=for-the-badge&message=English&color=222222&label=)
 ![French](https://img.shields.io/static/v1?style=for-the-badge&message=French&color=222222&label=)
-<br />
+<br/><br/>
 
 ## 📈 GitHub Stats
 
-![Sctlcd's GitHub stats](https://github-readme-stats.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&custom_title=sctlcd's%20GitHub%20Stats%202022)
+![Sctlcd's 2022 GitHub stats](https://github-readme-stats.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&custom_title=sctlcd's%20GitHub%20Stats%202022)
 
-![Sctlcd's GitHub stats](https://github-readme-stats.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)
+![Sctlcd's total GitHub stats](https://github-readme-stats.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sctlcd&theme=onedark)
-<br />
+<br/><br/>
 
 ## 📌 GitHub Extra Pins
 
@@ -68,7 +68,7 @@
 <a href="https://github.com/sctlcd/react-threejs-3d-world">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-3d-world&show_owner=true&theme=onedark" />
 </a>
-
+<br/><br/>
 
 
 <!--
