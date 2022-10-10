@@ -1,6 +1,6 @@
 ## <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="26rem" aligh="center"> Hey everyone. Welcome to my profile page!
 
-### I'm Lucinda Souchet.</br> A JavaScript | TypeScript | React Software Engineer interested in 3D animation, creative and interactive app development (Three.js, WebGL) 👩‍💻👩‍🎨
+### I'm Lucinda Souchet.</br> A JavaScript | TypeScript | React Software Engineer interested in **3D animation, creative and interactive app development** (Three.js, WebGL) 👩‍💻👩‍🎨
 
 <div>
   <!--Profile views-->
@@ -13,7 +13,7 @@
 </div>
 <br/>
 
-<!--Three.js globe gif-->
+<!--Three.js planet and its satelits-->
 <img src="https://github.com/sctlcd/sctlcd/blob/main/assets/gifs/threejs-first-app.gif" width="900" align="center" />
 <br/><br/>
 
@@ -42,20 +42,14 @@
 
 ## 📈 GitHub Stats
 
-![Sctlcd's 2022 GitHub stats](https://github-readme-stats.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&custom_title=sctlcd's%20GitHub%20Stats%202022)
+![sctlcd's 2022 GitHub stats](https://github-readme-stats.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&custom_title=sctlcd's%20GitHub%20Stats%202022)
 
-![Sctlcd's total GitHub stats](https://github-readme-stats.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)
+![sctlcd's total GitHub stats](https://github-readme-stats.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&include_all_commits=custom_title=sctlcd's%20global%20GitHub%20Stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sctlcd&theme=onedark)
 <br/><br/>
 
 ## 📌 GitHub Extra Pins
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=threejs-first-app&show_owner=true&theme=onedark)](https://github.com/sctlcd/threejs-first-app)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-3d-world&show_owner=true&theme=onedark)](https://github.com/sctlcd/react-threejs-3d-world)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=particlesjs-first-app&show_owner=true&theme=onedark)](https://github.com/sctlcd/particlesjs-first-app) -->
 
 <a href="https://github.com/sctlcd/threejs-first-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=threejs-first-app&show_owner=true&theme=onedark" />
@@ -69,8 +63,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-3d-world&show_owner=true&theme=onedark" />
 </a>
 <br/><br/>
-
-
-<!--
-**sctlcd/sctlcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
