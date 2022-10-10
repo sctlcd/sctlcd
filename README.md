@@ -47,11 +47,24 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sctlcd&theme=onedark)
 
 ## 📌 GitHub Extra Pins
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=threejs-first-app&show_owner=true&theme=onedark)](https://github.com/sctlcd/threejs-first-app)
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=threejs-first-app&show_owner=true&theme=onedark)](https://github.com/sctlcd/threejs-first-app)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-3d-world&show_owner=true&theme=onedark)](https://github.com/sctlcd/react-threejs-3d-world)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=particlesjs-first-app&show_owner=true&theme=onedark)](https://github.com/sctlcd/particlesjs-first-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=particlesjs-first-app&show_owner=true&theme=onedark)](https://github.com/sctlcd/particlesjs-first-app) -->
+
+<a href="https://github.com/sctlcd/threejs-first-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=threejs-first-app&show_owner=true&theme=onedark" />
+</a>
+
+<a href="https://github.com/sctlcd/react-threejs-3d-world">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-3d-world&show_owner=true&theme=onedark" />
+</a>
+
+<a href="https://github.com/sctlcd/particlesjs-first-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=particlesjs-first-app&show_owner=true&theme=onedark" />
+</a>
 
 <!--
 **sctlcd/sctlcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
