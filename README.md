@@ -1,6 +1,6 @@
 ## <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="26rem" aligh="center"> Hey everyone. Welcome to my profile page!
 
-## I'm Lucinda Souchet.</br> A JavaScript | TypeScript | React Software Engineer interested in 3D animation, creative and interactive app development (Three.js, WebGL) 👩‍💻👩‍🎨
+### I'm Lucinda Souchet.</br> A JavaScript | TypeScript | React Software Engineer interested in 3D animation, creative and interactive app development (Three.js, WebGL) 👩‍💻👩‍🎨
 
 <div>
   <!--Profile views-->
@@ -15,6 +15,7 @@
 
 <!--Three.js globe gif-->
 <img src="https://github.com/sctlcd/sctlcd/blob/main/assets/gifs/FBZp.gif" width="900" align="center" />
+<br />
 
 ## 👩‍💻 About me 👩‍🎨
 
@@ -31,20 +32,22 @@
 ![NPM](https://img.shields.io/static/v1?style=for-the-badge&message=NPM&color=222222&logo=NPM&logoColor=CB3837&?link=https://www.npmjs.com/&label=)
 ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=222222&logo=Sass&logoColor=CC6699&?link=https://sass-lang.com/&label=)
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=222222&logo=HTML5&logoColor=E34F26&?link=https://html.spec.whatwg.org/&label=)
-![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=222222&logo=CSS3&logoColor=00000&?link=https://www.w3.org/TR/CSS/#css&label=)
+![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=222222&logo=CSS3&logoColor=00000&?link=/&label=)
 
 ### 🗣️ Languages
 
 ![English](https://img.shields.io/static/v1?style=for-the-badge&message=English&color=222222&label=)
 ![French](https://img.shields.io/static/v1?style=for-the-badge&message=French&color=222222&label=)
+<br />
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&custom_title=sctlcd's%20GitHub%20Stats%202022)
+![Sctlcd's GitHub stats](https://github-readme-stats.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&custom_title=sctlcd's%20GitHub%20Stats%202022)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)
+![Sctlcd's GitHub stats](https://github-readme-stats.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sctlcd&theme=onedark)
+<br />
 
 ## 📌 GitHub Extra Pins
 
@@ -58,25 +61,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=threejs-first-app&show_owner=true&theme=onedark" />
 </a>
 
-<a href="https://github.com/sctlcd/react-threejs-3d-world">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-3d-world&show_owner=true&theme=onedark" />
-</a>
-
 <a href="https://github.com/sctlcd/particlesjs-first-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=particlesjs-first-app&show_owner=true&theme=onedark" />
 </a>
 
+<a href="https://github.com/sctlcd/react-threejs-3d-world">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-3d-world&show_owner=true&theme=onedark" />
+</a>
+
+
+
 <!--
 **sctlcd/sctlcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
