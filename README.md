@@ -22,11 +22,9 @@
 </a> -->
 
 <!--Three.js planet and its satelits-->
-<a href="https://github.com/sctlcd/threejs-first-app" target="_blank" >
-  <img src="https://github.com/sctlcd/sctlcd/blob/main/assets/gifs/threejs-first-app.gif" width="900" align="center" />
+<a href="https://media.giphy.com/media/L6x12zWaVMQyxKXahm/giphy.gif" target="_blank" >
+  <img src="https://media.giphy.com/media/L6x12zWaVMQyxKXahm/giphy.gif" width="900" align="center" />
 </a>
-
-https://media.giphy.com/media/L6x12zWaVMQyxKXahm/giphy.gif
 <br/><br/><br/>
 
 ## 👩‍💻 About me 👩‍🎨
@@ -56,7 +54,12 @@ https://media.giphy.com/media/L6x12zWaVMQyxKXahm/giphy.gif
 ## 📈 GitHub Stats
 
 <!-- sctlcd's GitHub skyline -->
-<img src="https://github.com/sctlcd/sctlcd/blob/main/assets/gifs/github-2021-skyline.gif" alt="sctlcd's GitHub skyline" width="700" />
+<!-- <img src="https://github.com/sctlcd/sctlcd/blob/main/assets/gifs/github-2021-skyline.gif" alt="sctlcd's GitHub skyline" width="700" /> -->
+
+<!-- sctlcd's GitHub skyline -->
+<a href="https://media.giphy.com/media/yS2P3SLa9xvatUBWCb/giphy.gif" target="_blank" >
+  <img src="https://media.giphy.com/media/yS2P3SLa9xvatUBWCb/giphy.gif" width="700" />
+</a>
 
 <!-- sctlcd's GitHub stats 2022 -->
 <img src="https://github-readme-stats.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&custom_title=sctlcd's%20GitHub%20stats%202022" alt="sctlcd's GitHub stats 2022" width="700">
