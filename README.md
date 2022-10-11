@@ -2,8 +2,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EC6161&height=180&section=header&text=Lucinda%20Souchet&fontSize=30&fontColor=353535&animation=twinkling&fontAlignY=35" />
 <br/><br/><br />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EC6161&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Lucinda%20Souchet;SPECIALIZATION+===+Web+Development;JavaScript,+TypeScripte,+React+Developer;EXPERIENCE+>+7+years+in+Software+Development;INTERESTS+===+3D+and+creative+app+development;Welcome+to+my+profile+page!)
-<br /><br /><br />
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EC6161&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Lucinda%20Souchet;SPECIALIZATION+===+Web+Development;JavaScript,+TypeScripte,+React+Developer;EXPERIENCE+>+7+years+in+Agile+Software+Industry;INTERESTS+===+3D+and+creative+app+development;Welcome+to+my+profile+page!)
+<br /><br /><br /><br />
 
 <div>
   <!--Profile views-->
