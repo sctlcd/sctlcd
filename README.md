@@ -1,6 +1,9 @@
-## <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="26rem" aligh="center"> Hey everyone. Welcome to my profile page!
 
-### I'm Lucinda Souchet.</br> A JavaScript | TypeScript | React Software Engineer interested in **3D animation, creative and interactive app development** (Three.js, WebGL) 👩‍💻👩‍🎨
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EC6161&height=180&section=header&text=Lucinda%20Souchet&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" />
+<br/><br/>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EC6161&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Lucinda%20Souchet;SPECIALIZATION+===+Web+Development;JavaScript,+TypeScripte,+React+Developer;EXPERIENCE+>+7+years+in+Software+Development;INTERESTS+===+3D+and+creative+app+development;Welcome+to+my+profile+page!)
+<br /><br /><br/>
 
 <div>
   <!--Profile views-->
@@ -33,6 +36,7 @@
 ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=222222&logo=Sass&logoColor=CC6699&?link=https://sass-lang.com/&label=)
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=222222&logo=HTML5&logoColor=E34F26&?link=https://html.spec.whatwg.org/&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=222222&logo=CSS3&logoColor=00000&?link=/&label=)
+<br/><br/>
 
 ### 💬 Languages
 
