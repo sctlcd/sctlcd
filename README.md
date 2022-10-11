@@ -17,11 +17,6 @@
 <br/><br/><br/>
 
 <!--Three.js planet and its satelits-->
-<!-- <a href="https://github.com/sctlcd/threejs-first-app" target="_blank" >
-  <img src="https://github.com/sctlcd/sctlcd/blob/main/assets/gifs/threejs-first-app.gif" width="900" align="center" />
-</a> -->
-
-<!--Three.js planet and its satelits-->
 <a href="https://media.giphy.com/media/L6x12zWaVMQyxKXahm/giphy.gif" target="_blank" >
   <img src="https://media.giphy.com/media/L6x12zWaVMQyxKXahm/giphy.gif" width="900" align="center" />
 </a>
@@ -52,9 +47,6 @@
 <br/><br/>
 
 ## 📈 GitHub Stats
-
-<!-- sctlcd's GitHub skyline -->
-<!-- <img src="https://github.com/sctlcd/sctlcd/blob/main/assets/gifs/github-2021-skyline.gif" alt="sctlcd's GitHub skyline" width="700" /> -->
 
 <!-- sctlcd's GitHub skyline -->
 <a href="https://media.giphy.com/media/yS2P3SLa9xvatUBWCb/giphy.gif" target="_blank" >
