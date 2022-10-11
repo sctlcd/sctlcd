@@ -17,9 +17,16 @@
 <br/><br/><br/>
 
 <!--Three.js planet and its satelits-->
+<!-- <a href="https://github.com/sctlcd/threejs-first-app" target="_blank" >
+  <img src="https://github.com/sctlcd/sctlcd/blob/main/assets/gifs/threejs-first-app.gif" width="900" align="center" />
+</a> -->
+
+<!--Three.js planet and its satelits-->
 <a href="https://github.com/sctlcd/threejs-first-app" target="_blank" >
   <img src="https://github.com/sctlcd/sctlcd/blob/main/assets/gifs/threejs-first-app.gif" width="900" align="center" />
 </a>
+
+https://media.giphy.com/media/L6x12zWaVMQyxKXahm/giphy.gif
 <br/><br/><br/>
 
 ## 👩‍💻 About me 👩‍🎨
@@ -61,8 +68,10 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sctlcd&theme=onedark" alt="sctlcd's GitHub streak" width="700">
 
 #### Watch my contribution graph get eaten by the snake 🐍
-![Snake animation](https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake.gif)
-<br/>
+
+<!-- Snake animation -->
+<img src="https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" width="700">
+<br/><br/>
 
 ## 📌 GitHub Extra Pins
 
