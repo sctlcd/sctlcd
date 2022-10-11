@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EC6161&height=200&section=header&text=Lucinda%20Souchet&fontSize=32&fontColor=282c34&animation=twinkling&fontAlignY=35" />
 <br/><br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EC6161&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Lucinda%20Souchet;SPECIALIZATION+===+Web+Development;JavaScript,+TypeScripte,+React+Developer;EXPERIENCE+>+7+years+in+Agile+Software+Industry;INTERESTS+===+3D+and+creative+app+development;Welcome+to+my+profile+page!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EC6161&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Lucinda%20Souchet;SPECIALIZATION+===+Web+Development;JavaScript,+TypeScripte,+React+Developer;EXPERIENCE+>+7+years+in+Agile+Software+Industry;INTERESTS+===+3D+and+creative+app+development;Welcome+to+my+profile+page!)
 <br /><br /><br /><br />
 
 <div>
@@ -48,11 +48,23 @@
 
 ## 📈 GitHub Stats
 
-![sctlcd's 2022 GitHub stats](https://github-readme-stats.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&custom_title=sctlcd's%20GitHub%20stats%202022)
+<!-- ![sctlcd's 2022 GitHub stats](https://github-readme-stats.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&custom_title=sctlcd's%20GitHub%20stats%202022) -->
 
-![sctlcd's global GitHub stats](https://github-readme-stats.vercel.app/api?username=sctlcd&show_icons=true&theme=onedark&include_all_commits=true&custom_title=sctlcd's%20global%20GitHub%20stats)
+<!-- sctlcd's GitHub stats 2022 -->
+<img src="https://github-readme-stats.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&custom_title=sctlcd's%20GitHub%20stats%202022" alt="sctlcd's GitHub stats 2022" width="700">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sctlcd&theme=onedark)
+<!-- ![sctlcd's global GitHub stats](https://github-readme-stats.vercel.app/api?username=sctlcd&show_icons=true&theme=onedark&include_all_commits=true&custom_title=sctlcd's%20global%20GitHub%20stats) -->
+
+<!-- sctlcd's global GitHub stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=sctlcd&show_icons=true&theme=onedark&include_all_commits=true&custom_title=sctlcd's%20global%20GitHub%20stats" alt="sctlcd's global GitHub stats" width="700">
+
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sctlcd&theme=onedark) -->
+
+<!-- sctlcd's GitHub streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sctlcd&theme=onedark" alt="sctlcd's GitHub streak" width="700">
+
+<!-- sctlcd's GitHub skyline -->
+<img src="https://github.com/sctlcd/sctlcd/blob/main/assets/gifs/github-2021-skyline.gif" alt="sctlcd's GitHub skyline" width="700" />
 <br/><br/>
 
 ## 📌 GitHub Extra Pins
@@ -70,4 +82,4 @@
 </a>
 <br/><br/><br/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EC6161&height=200&section=footer&text=Thank%20you!&fontSize=32&fontColor=282c34&animation=twinkling&fontAlignY=65" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EC6161&height=200&section=footer&text=Thank%20you!&fontSize=28&fontColor=282c34&animation=twinkling&fontAlignY=65" />
