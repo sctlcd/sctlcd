@@ -42,9 +42,9 @@
 
 ## 📈 GitHub Stats
 
-![sctlcd's 2022 GitHub stats](https://github-readme-stats.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&custom_title=sctlcd's%20GitHub%20Stats%202022)
+![sctlcd's 2022 GitHub stats](https://github-readme-stats.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&custom_title=sctlcd's%20GitHub%20stats%202022)
 
-![sctlcd's total GitHub stats](https://github-readme-stats.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&include_all_commits=custom_title=sctlcd's%20global%20GitHub%20Stats)
+![sctlcd's global GitHub stats](https://github-readme-stats.vercel.app/api?username=sctlcd&show_icons=true&theme=onedark&include_all_commits=true&custom_title=sctlcd's%20global%20GitHub%20stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sctlcd&theme=onedark)
 <br/><br/>
