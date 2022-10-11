@@ -44,7 +44,7 @@
 
 ![English](https://img.shields.io/static/v1?style=for-the-badge&message=English&color=222222&label=)
 ![French](https://img.shields.io/static/v1?style=for-the-badge&message=French&color=222222&label=)
-<br/><br/>
+<br/><br/><br/>
 
 ## 📈 GitHub Stats
 
@@ -52,6 +52,7 @@
 <a href="https://media.giphy.com/media/yS2P3SLa9xvatUBWCb/giphy.gif" target="_blank" >
   <img src="https://media.giphy.com/media/yS2P3SLa9xvatUBWCb/giphy.gif" width="700" />
 </a>
+<br/><br/>
 
 <!-- sctlcd's GitHub stats 2022 -->
 <img src="https://github-readme-stats.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&custom_title=sctlcd's%20GitHub%20stats%202022" alt="sctlcd's GitHub stats 2022" width="700">
@@ -81,6 +82,6 @@
 <a href="https://github.com/sctlcd/react-threejs-3d-world">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-3d-world&show_owner=true&theme=onedark" />
 </a>
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EC6161&height=200&section=footer&text=Thank%20you!&fontSize=28&fontColor=282c34&animation=twinkling&fontAlignY=65" />
