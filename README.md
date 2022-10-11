@@ -48,6 +48,7 @@
 
 ## 📈 GitHub Stats
 
+<br/>
 <!-- sctlcd's GitHub skyline -->
 <a href="https://media.giphy.com/media/yS2P3SLa9xvatUBWCb/giphy.gif" target="_blank" >
   <img src="https://media.giphy.com/media/yS2P3SLa9xvatUBWCb/giphy.gif" width="700" />
@@ -63,7 +64,7 @@
 <!-- sctlcd's GitHub streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sctlcd&theme=onedark" alt="sctlcd's GitHub streak" width="700">
 
-#### Watch my contribution graph get eaten by the snake 🐍
+#### 🐍 Watch my contribution graph get eaten by the snake
 
 <!-- Snake animation -->
 <img src="https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" width="700">
@@ -71,6 +72,7 @@
 
 ## 📌 GitHub Extra Pins
 
+<br/>
 <a href="https://github.com/sctlcd/threejs-first-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=threejs-first-app&show_owner=true&theme=onedark" />
 </a>
@@ -78,6 +80,7 @@
 <a href="https://github.com/sctlcd/particlesjs-first-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=particlesjs-first-app&show_owner=true&theme=onedark" />
 </a>
+<br/><br/>
 
 <a href="https://github.com/sctlcd/react-threejs-3d-world">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-3d-world&show_owner=true&theme=onedark" />
