@@ -56,7 +56,7 @@
 <br/><br/>
 
 <!-- sctlcd's GitHub stats 2022 -->
-<img src="https://github-readme-stats.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&custom_title=sctlcd's%20GitHub%20stats%202022" alt="sctlcd's GitHub stats 2022" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&custom_title=sctlcd's%202022%20GitHub%20stats" alt="sctlcd's GitHub stats 2022" width="700">
 
 <!-- sctlcd's global GitHub stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=sctlcd&show_icons=true&theme=onedark&include_all_commits=true&custom_title=sctlcd's%20global%20GitHub%20stats" alt="sctlcd's global GitHub stats" width="700">
@@ -84,6 +84,10 @@
 
 <a href="https://github.com/sctlcd/react-threejs-3d-world">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-3d-world&show_owner=true&theme=onedark" />
+</a>
+
+<a href="https://github.com/sctlcd/react-threejs-minecraft">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-minecraft&show_owner=true&theme=onedark" />
 </a>
 <br/><br/><br/><br/>
 
