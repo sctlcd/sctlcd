@@ -59,7 +59,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&custom_title=sctlcd's%202022%20GitHub%20stats" alt="sctlcd's GitHub stats 2022" width="700">
 
 <!-- sctlcd's global GitHub stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=sctlcd&show_icons=true&theme=onedark&include_all_commits=true&custom_title=sctlcd's%20global%20GitHub%20stats" alt="sctlcd's global GitHub stats" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=sctlcd&include_all_commits=true&show_icons=true&theme=onedark&custom_title=sctlcd's%20global%20GitHub%20stats" alt="sctlcd's global GitHub stats" width="700">
 
 <!-- sctlcd's GitHub streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sctlcd&theme=onedark" alt="sctlcd's GitHub streak" width="700">
