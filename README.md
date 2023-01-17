@@ -26,18 +26,22 @@
 
 ### 🔧 Interests and/or skills
 
+![Three.js](https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=222222&logo=Three.js&logoColor=white&?link=https://threejs.org/&label=)
+![WebGL](https://img.shields.io/static/v1?style=for-the-badge&message=WebGL&color=222222&logo=WebGL&logoColor=990000&?link=https://www.khronos.org/webgl/&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&?link=https://www.javascript.com/&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=222222&logo=TypeScript&logoColor=3178C6&?link=https://www.typescriptlang.org/&label=)
-![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&?link=https://reactjs.org/&label=)
-![Three.js](https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=222222&logo=Three.js&logoColor=000000&?link=https://threejs.org/&label=)
-![WebGL](https://img.shields.io/static/v1?style=for-the-badge&message=WebGL&color=222222&logo=WebGL&logoColor=990000&?link=https://www.khronos.org/webgl/&label=)
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React.js&color=222222&logo=react&logoColor=61DAFB&?link=https://reactjs.org/&label=)
+![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=222222&logo=next.js&logoColor=white&?link=https://nextjs.org/&label=)
+![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=vue.js&logoColor=4FC08D?link=https://vuejs.org/&label=)
+![Nuxt.js](https://img.shields.io/static/v1?style=for-the-badge&message=Nuxt.js&&color=222222&logo=nuxt.js&logoColor=00DC82?link=https://nuxtjs.org/&label=)
+![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=222222&logo=Sass&logoColor=CC6699&?link=https://sass-lang.com/&label=)
+![TailwindCSS](https://img.shields.io/static/v1?style=for-the-badge&message=tailwindcss&color=222222&logo=tailwind-css&logoColor=00000&?link=/&label=)
+![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=222222&logo=CSS3&logoColor=00000&?link=/&label=)
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=222222&logo=HTML5&logoColor=E34F26&?link=https://html.spec.whatwg.org/&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=222222&logo=Node.js&logoColor=339933&?link=https://nodejs.org/en/&label=)
-![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=222222&logo=Express&logoColor=000000&?link=https://expressjs.com/&label=)
+![Express.js](https://img.shields.io/static/v1?style=for-the-badge&message=Express.js&color=222222&logo=Express&logoColor=2361DAFB&?link=https://expressjs.com/&label=)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&?link=https://firebase.google.com/&label=)
 ![NPM](https://img.shields.io/static/v1?style=for-the-badge&message=NPM&color=222222&logo=NPM&logoColor=CB3837&?link=https://www.npmjs.com/&label=)
-![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=222222&logo=Sass&logoColor=CC6699&?link=https://sass-lang.com/&label=)
-![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=222222&logo=HTML5&logoColor=E34F26&?link=https://html.spec.whatwg.org/&label=)
-![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=222222&logo=CSS3&logoColor=00000&?link=/&label=)
 <br/>
 
 ### 💬 Languages
@@ -74,7 +78,6 @@
 
 ### Three.js - Web GL
 
-<br/>
 <a href="https://github.com/sctlcd/react-threejs-minecraft">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-minecraft&show_owner=true&theme=onedark" />
 </a>
@@ -98,6 +101,7 @@
 <a href="https://github.com/sctlcd/particlesjs-first-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=particlesjs-first-app&show_owner=true&theme=onedark" />
 </a>
+<br/><br/>
 
 ### React 17 / 18
 
@@ -169,8 +173,6 @@
 <a href="https://github.com/sctlcd/js-clock">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=js-clock&show_owner=true&theme=onedark" />
 </a>
-<br/><br/>
 
 <br/><br/><br/><br/>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EC6161&height=200&section=footer&text=Thank%20you!&fontSize=28&fontColor=282c34&animation=twinkling&fontAlignY=65" />
