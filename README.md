@@ -32,8 +32,6 @@
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=222222&logo=TypeScript&logoColor=3178C6&?link=https://www.typescriptlang.org/&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React.js&color=222222&logo=react&logoColor=61DAFB&?link=https://reactjs.org/&label=)
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=222222&logo=next.js&logoColor=white&?link=https://nextjs.org/&label=)
-![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=vue.js&logoColor=4FC08D?link=https://vuejs.org/&label=)
-![Nuxt.js](https://img.shields.io/static/v1?style=for-the-badge&message=Nuxt.js&&color=222222&logo=nuxt.js&logoColor=00DC82?link=https://nuxtjs.org/&label=)
 ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=222222&logo=Sass&logoColor=CC6699&?link=https://sass-lang.com/&label=)
 ![TailwindCSS](https://img.shields.io/static/v1?style=for-the-badge&message=tailwindcss&color=222222&logo=tailwind-css&logoColor=00000&?link=/&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=222222&logo=CSS3&logoColor=00000&?link=/&label=)
