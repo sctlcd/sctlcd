@@ -66,10 +66,10 @@
 <!-- sctlcd's GitHub streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sctlcd&theme=onedark" alt="sctlcd's GitHub streak" width="700">
 
-<!-- #### 🐍 Watch my contribution graph get eaten by the snake -->
+#### 🐍 Watch my contribution graph get eaten by the snake
 
 <!-- Snake animation -->
-<!-- <img src="https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" width="700"> -->
+<img src="https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" width="700">
 <br/><br/>
 
 ## 📌 GitHub Extra Pins
@@ -94,6 +94,10 @@
 </a>
 <br/><br/>
 
+<a href="https://github.com/sctlcd/react-threejs-car-racing">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-car-racing&show_owner=true&theme=onedark" />
+</a>
+
 ### Particules.js
 
 <a href="https://github.com/sctlcd/particlesjs-first-app">
@@ -114,6 +118,10 @@
 
 <a href="https://github.com/sctlcd/react-tic-tac-toe">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-tic-tac-toe&show_owner=true&theme=onedark" />
+</a>
+
+<a href="https://github.com/sctlcd/react-threejs-car-racing">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-car-racing&show_owner=true&theme=onedark" />
 </a>
 <br/><br/>
 
