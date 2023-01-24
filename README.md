@@ -69,7 +69,7 @@
 #### 🐍 Watch my contribution graph get eaten by the snake
 
 <!-- Snake animation -->
-<img src="https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" width="700">
+<img src="https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" width="800">
 <br/><br/>
 
 ## 📌 GitHub Extra Pins
