@@ -66,10 +66,10 @@
 <!-- sctlcd's GitHub streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sctlcd&theme=onedark" alt="sctlcd's GitHub streak" width="700">
 
-<!-- #### 🐍 Watch my contribution graph get eaten by the snake -->
+#### 🐍 Watch my contribution graph get eaten by the snake
 
 <!-- Snake animation -->
-<!-- <img src="https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" width="700"> -->
+<img src="https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" width="700">
 <br/><br/>
 
 ## 📌 GitHub Extra Pins
