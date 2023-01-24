@@ -58,10 +58,10 @@
 <br/><br/>
 
 <!-- sctlcd's GitHub stats 2022 -->
-<img src="https://github-readme-stats.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&custom_title=sctlcd's%202022%20GitHub%20stats" alt="sctlcd's GitHub stats 2022" width="700">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&custom_title=sctlcd's%202022%20GitHub%20stats" alt="sctlcd's GitHub stats 2022" width="700">
 
 <!-- sctlcd's global GitHub stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=sctlcd&include_all_commits=true&show_icons=true&theme=onedark&custom_title=sctlcd's%20global%20GitHub%20stats" alt="sctlcd's global GitHub stats" width="700">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sctlcd&include_all_commits=true&show_icons=true&theme=onedark&custom_title=sctlcd's%20global%20GitHub%20stats" alt="sctlcd's global GitHub stats" width="700">
 
 <!-- sctlcd's GitHub streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sctlcd&theme=onedark" alt="sctlcd's GitHub streak" width="700">
@@ -77,99 +77,99 @@
 ### Three.js - Web GL
 
 <a href="https://github.com/sctlcd/react-threejs-minecraft">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-minecraft&show_owner=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-minecraft&show_owner=true&theme=onedark" />
 </a>
 
 <a href="https://github.com/sctlcd/threejs-moon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=threejs-moon&show_owner=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=threejs-moon&show_owner=true&theme=onedark" />
 </a>
 <br/><br/>
 
 <a href="https://github.com/sctlcd/threejs-first-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=threejs-first-app&show_owner=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=threejs-first-app&show_owner=true&theme=onedark" />
 </a>
 
 <a href="https://github.com/sctlcd/react-threejs-3d-world">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-3d-world&show_owner=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-3d-world&show_owner=true&theme=onedark" />
 </a>
 <br/><br/>
 
 ### Particules.js
 
 <a href="https://github.com/sctlcd/particlesjs-first-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=particlesjs-first-app&show_owner=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=particlesjs-first-app&show_owner=true&theme=onedark" />
 </a>
 <br/><br/>
 
 ### React 17 / 18
 
 <a href="https://github.com/sctlcd/react-threejs-minecraft">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-minecraft&show_owner=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-minecraft&show_owner=true&theme=onedark" />
 </a>
 
 <a href="https://github.com/sctlcd/react-threejs-3d-world">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-3d-world&show_owner=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-3d-world&show_owner=true&theme=onedark" />
 </a>
 <br/><br/>
 
 <a href="https://github.com/sctlcd/react-tic-tac-toe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=react-tic-tac-toe&show_owner=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-tic-tac-toe&show_owner=true&theme=onedark" />
 </a>
 <br/><br/>
 
 ### Vue 3
 
 <a href="https://github.com/sctlcd/vue-threejs-first-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=vue-threejs-first-app&show_owner=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=vue-threejs-first-app&show_owner=true&theme=onedark" />
 </a>
 <br/><br/>
 
 ### Angular 11 / 12
 
 <a href="https://github.com/sctlcd/angular-video-search-engine-v2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=angular-video-search-engine-v2&show_owner=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=angular-video-search-engine-v2&show_owner=true&theme=onedark" />
 </a>
 
 <a href="https://github.com/sctlcd/angular-first-app_tell-me-a-joke">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=angular-first-app_tell-me-a-joke&show_owner=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=angular-first-app_tell-me-a-joke&show_owner=true&theme=onedark" />
 </a>
 <br/><br/>
 
 ### JavaScript
 
 <a href="https://github.com/sctlcd/pearl-latest-version">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=pearl-latest-version&show_owner=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=pearl-latest-version&show_owner=true&theme=onedark" />
 </a>
 
 <a href="https://github.com/sctlcd/boutique-ado-customized-latest-version">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=boutique-ado-customized-latest-version&show_owner=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=boutique-ado-customized-latest-version&show_owner=true&theme=onedark" />
 </a>
 <br/><br/>
 
 <a href="https://github.com/sctlcd/match-the-memory-latest-version">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=match-the-memory-latest-version&show_owner=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=match-the-memory-latest-version&show_owner=true&theme=onedark" />
 </a>
 
 <a href="https://github.com/sctlcd/js-pacman">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=js-pacman&show_owner=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=js-pacman&show_owner=true&theme=onedark" />
 </a>
 <br/><br/>
 
 <a href="https://github.com/sctlcd/js-simon-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=js-simon-game&show_owner=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=js-simon-game&show_owner=true&theme=onedark" />
 </a>
 
 <a href="https://github.com/sctlcd/js-tetris">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=js-tetris&show_owner=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=js-tetris&show_owner=true&theme=onedark" />
 </a>
 <br/><br/>
 
 <a href="https://github.com/sctlcd/js-drum-kit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=js-drum-kit&show_owner=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=js-drum-kit&show_owner=true&theme=onedark" />
 </a>
 
 <a href="https://github.com/sctlcd/js-clock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sctlcd&repo=js-clock&show_owner=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=js-clock&show_owner=true&theme=onedark" />
 </a>
 
 <br/><br/><br/><br/>
