@@ -58,19 +58,22 @@
 <br/><br/>
 
 <!-- sctlcd's GitHub stats 2022 -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&custom_title=sctlcd's%202022%20GitHub%20stats" alt="sctlcd's GitHub stats 2022" width="700">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&custom_title=sctlcd's%202023%20GitHub%20stats" alt="sctlcd's GitHub stats 2022" width="700">
+<br/><br/>
 
 <!-- sctlcd's global GitHub stats -->
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sctlcd&include_all_commits=true&show_icons=true&theme=onedark&custom_title=sctlcd's%20global%20GitHub%20stats" alt="sctlcd's global GitHub stats" width="700">
+<br/><br/>
 
 <!-- sctlcd's GitHub streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sctlcd&theme=onedark" alt="sctlcd's GitHub streak" width="700">
+<br/>
 
 #### 🐍 Watch my contribution graph get eaten by the snake
 
 <!-- Snake animation -->
 <img src="https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" width="800">
-<br/><br/>
+<br/><br/><br/>
 
 ## 📌 GitHub Extra Pins
 
@@ -97,6 +100,7 @@
 <a href="https://github.com/sctlcd/react-threejs-car-racing">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-car-racing&show_owner=true&theme=onedark" />
 </a>
+<br/><br/>
 
 ### Particules.js
 
