@@ -57,8 +57,8 @@
 </a>
 <br/><br/>
 
-<!-- sctlcd's GitHub stats 2022 -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&custom_title=sctlcd's%202023%20GitHub%20stats&hide=contribs,issues" alt="sctlcd's GitHub stats 2022" width="700">
+<!-- sctlcd's current year GitHub stats -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&custom_title=sctlcd's%20current%20year%20GitHub%20stats&hide=contribs,issues" alt="sctlcd's current year GitHub stats" width="700">
 <br/><br/>
 
 <!-- sctlcd's global GitHub stats -->
