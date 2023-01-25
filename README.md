@@ -55,7 +55,7 @@
 <a href="https://media.giphy.com/media/yS2P3SLa9xvatUBWCb/giphy.gif" target="_blank" >
   <img src="https://media.giphy.com/media/yS2P3SLa9xvatUBWCb/giphy.gif" width="700" />
 </a>
-<br/><br/>
+<br/><br/><br/>
 
 <!-- sctlcd's current year GitHub stats -->
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sctlcd&count_private=true&show_icons=true&theme=onedark&custom_title=sctlcd's%20current%20year%20GitHub%20stats&hide=contribs,issues" alt="sctlcd's current year GitHub stats" width="700">
@@ -73,7 +73,7 @@
 
 <!-- Snake animation -->
 <img src="https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" width="800">
-<br/><br/><br/>
+<br/><br/>
 
 ## 📌 GitHub Extra Pins
 
