@@ -28,6 +28,7 @@
 
 ![Three.js](https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=222222&logo=Three.js&logoColor=white&?link=https://threejs.org/&label=)
 ![WebGL](https://img.shields.io/static/v1?style=for-the-badge&message=WebGL&color=222222&logo=WebGL&logoColor=990000&?link=https://www.khronos.org/webgl/&label=)
+![Babylon.js](https://img.shields.io/static/v1?style=for-the-badge&message=Babylon.js&color=222222&logo=Babylon.js&logoColor=990000&?link=https://www.babylonjs.com/&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&?link=https://www.javascript.com/&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=222222&logo=TypeScript&logoColor=3178C6&?link=https://www.typescriptlang.org/&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React.js&color=222222&logo=react&logoColor=61DAFB&?link=https://reactjs.org/&label=)
@@ -36,10 +37,6 @@
 ![TailwindCSS](https://img.shields.io/static/v1?style=for-the-badge&message=tailwindcss&color=222222&logo=tailwind-css&logoColor=00000&?link=/&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=222222&logo=CSS3&logoColor=00000&?link=/&label=)
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=222222&logo=HTML5&logoColor=E34F26&?link=https://html.spec.whatwg.org/&label=)
-![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=222222&logo=Node.js&logoColor=339933&?link=https://nodejs.org/en/&label=)
-![Express.js](https://img.shields.io/static/v1?style=for-the-badge&message=Express.js&color=222222&logo=Express&logoColor=2361DAFB&?link=https://expressjs.com/&label=)
-![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&?link=https://firebase.google.com/&label=)
-![NPM](https://img.shields.io/static/v1?style=for-the-badge&message=NPM&color=222222&logo=NPM&logoColor=CB3837&?link=https://www.npmjs.com/&label=)
 <br/>
 
 ### 💬 Languages
