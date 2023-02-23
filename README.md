@@ -17,8 +17,12 @@
 <br/><br/><br/>
 
 <!--Three.js planet and its satelits-->
-<a href="https://media.giphy.com/media/L6x12zWaVMQyxKXahm/giphy.gif" target="_blank" >
-  <img src="https://media.giphy.com/media/L6x12zWaVMQyxKXahm/giphy.gif" width="900" align="center" />
+<a href="https://media.giphy.com/media/iXSK3MaxYECgLjAMXF/giphy.gif" target="_blank" >
+  <img align="center" src="https://media.giphy.com/media/iXSK3MaxYECgLjAMXF/giphy.gif"/>
+</a>
+
+<a href="https://media.giphy.com/media/CCP8TGd0r4yCd5rkev/giphy.gif" target="_blank" >
+  <img align="center" src="https://media.giphy.com/media/CCP8TGd0r4yCd5rkev/giphy.gif"/>
 </a>
 <br/><br/><br/>
 
