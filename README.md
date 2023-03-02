@@ -93,6 +93,9 @@
 <a href="https://github.com/sctlcd/threejs-lightning-storm">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=threejs-lightning-storm&show_owner=true&theme=onedark" />
 </a>
+<a href="https://github.com/sctlcd/threejs-rain-storm">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=threejs-rain-storm&show_owner=true&theme=onedark" />
+</a>
 <br/><br/>
 
 <a href="https://github.com/sctlcd/threejs-moon">
