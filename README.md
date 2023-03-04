@@ -17,30 +17,21 @@
 <br/><br/><br/>
 
 <!--Three.js planet and its satelits-->
-<a href="https://github.com/sctlcd/threejs-first-app" target="_blank" >
+<a href="https://github.com/sctlcd/threejs-first-app" target="_blank" alt="threejs first app">
   <img align="center" width="900" src="https://media.giphy.com/media/iXSK3MaxYECgLjAMXF/giphy.gif"/>
 </a>
 <br/><br/>
 
 <!-- threejs-lightning-storm -->
-<a href="https://github.com/sctlcd/threejs-lightning-storm" target="_blank" >
+<a href="https://github.com/sctlcd/threejs-lightning-storm" target="_blank" alt="threejs lightning storm">
   <img align="center" width="900" src="https://media.giphy.com/media/CCP8TGd0r4yCd5rkev/giphy.gif"/>
 </a>
 <br/><br/>
 
-<a href="https://github.com/sctlcd/threejs-rain-storm" target="_blank" >
-  <img align="center" width="900" src="https://player.vimeo.com/video/804677105?h=137603ad57&;badge=0&;&autoplay=1&;loop=1&;autopause=0&;player_id=0&;app_id=58479"/>
+<!-- threejs-rain-storm -->
+<a href="https://github.com/sctlcd/threejs-rain-storm" target="_blank" alt="threejs rain storm">
+  <img align="center" width="900" src="https://github.com/sctlcd/sctlcd/blob/main/assets/images/threejs-rain-storm.png"/>
 </a>
-<br/><br/><br/>
-
-<a href="https://github.com/sctlcd/threejs-rain-storm" target="_blank" >
-<iframe src="https://player.vimeo.com/video/804677105?h=137603ad57&amp;badge=0&amp;&autoplay=1&loop=1&;autopause=0&;player_id=0&;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Lucinda_rain"></iframe>
-</a>
-<script src="https://player.vimeo.com/api/player.js"></script>
-<br/><br/><br/>
-
-![threejs-rain-storm](https://player.vimeo.com/video/804677105?h=137603ad57&;badge=0&;&autoplay=1&;loop=1&;autopause=0&;player_id=0&;app_id=58479)
-
 <br/><br/><br/>
 
 ## 👩‍💻 About me 👩‍🎨
