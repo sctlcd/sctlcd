@@ -43,7 +43,7 @@
 </a>
 <div>
   <span>=></span>
-  <a href="https://threejs-rain-storm.web.app/" target="_blank" alt="threejs rain storm live link"><span>threejs rain storm live link</span></a>
+  <a href="https://threejs-rain-storm.web.app/" target="_blank" alt="threejs rain storm live link"><span>threejs-rain-storm live link</span></a>
 </div>
 <br/><br/><br/>
 
