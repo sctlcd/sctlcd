@@ -34,7 +34,6 @@
   <span>=></span>
   <a href="https://threejs-storm.web.app/" target="_blank" alt="threejs-lightning-storm live link"><span>threejs-lightning-storm live link</span></a>
 </div>
-
 <br/><br/>
 
 <!-- threejs-rain-storm -->
