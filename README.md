@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EC6161&height=200&section=header&text=Lucinda%20Souchet&fontSize=32&fontColor=282c34&animation=twinkling&fontAlignY=35" />
 <br/><br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EC6161&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Lucinda%20Souchet;SPECIALIZATION+===+Web+Development;JavaScript+|+React+|+3D+Web+Developer;EXPERIENCE+>+7+years+in+Agile+Software+Industry;INTERESTS+===+3D+animation+and;creative+and+interactive+app+development;Welcome+to+my+profile+page!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EC6161&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Lucinda%20Souchet;SPECIALIZATION+===+Creative+Web+Development;3D+Web+|+JavaScript+|+React+Developer;EXPERIENCE+>+7+years+in+Agile+Software+Industry;INTERESTS+===+3D+animation+and;creative+and+interactive+app+development;Welcome+to+my+profile+page!)
 <br /><br /><br /><br />
 
 <div>
@@ -22,8 +22,14 @@
 </a>
 <br/><br/>
 
+<!-- threejs-lightning-storm -->
 <a href="https://github.com/sctlcd/threejs-lightning-storm" target="_blank" >
   <img align="center" width="900" src="https://media.giphy.com/media/CCP8TGd0r4yCd5rkev/giphy.gif"/>
+</a>
+<br/><br/>
+
+<a href="https://github.com/sctlcd/threejs-rain-storm" target="_blank" >
+  <img align="center" width="900" src="https://player.vimeo.com/video/804677105?h=137603ad57&amp;badge=0&amp;&autoplay=1&amp;loop=1&amp;autopause=0&amp;player_id=0&amp;app_id=58479"/>
 </a>
 <br/><br/><br/>
 
@@ -139,13 +145,6 @@
 </a>
 <br/><br/>
 
-### Vue 3
-
-<a href="https://github.com/sctlcd/vue-threejs-first-app">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=vue-threejs-first-app&show_owner=true&theme=onedark" />
-</a>
-<br/><br/>
-
 ### Angular 11 / 12
 
 <a href="https://github.com/sctlcd/angular-video-search-engine-v2">
@@ -154,6 +153,13 @@
 
 <a href="https://github.com/sctlcd/angular-first-app_tell-me-a-joke">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=angular-first-app_tell-me-a-joke&show_owner=true&theme=onedark" />
+</a>
+<br/><br/>
+
+### Vue 3
+
+<a href="https://github.com/sctlcd/vue-threejs-first-app">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=vue-threejs-first-app&show_owner=true&theme=onedark" />
 </a>
 <br/><br/>
 
