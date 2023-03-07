@@ -1,9 +1,9 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EC6161&height=200&section=header&text=Lucinda%20Souchet&fontSize=32&fontColor=282c34&animation=twinkling&fontAlignY=35" />
-<br/><br/>
+<br/><br/><br/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EC6161&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Lucinda%20Souchet;SPECIALIZATION+===+Creative+Web+Development;3D+Web+|+JavaScript+|+React+Developer;EXPERIENCE+>+7+years+in+Agile+Software+Industry;INTERESTS+===+3D+animation+and;creative+and+interactive+app+development;Welcome+to+my+profile+page!)
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br/>
 
 <div>
   <!--Profile views-->
@@ -17,32 +17,32 @@
 <br/><br/><br/>
 
 <!--Three.js planet and its satelits-->
-<a href="https://github.com/sctlcd/threejs-first-app" target="_blank" alt="threejs first app">
-  <img align="center" width="900" src="https://media.giphy.com/media/iXSK3MaxYECgLjAMXF/giphy.gif"/>
+<a href="https://github.com/sctlcd/threejs-first-app" target="_blank">
+  <img align="center" width="900" src="https://media.giphy.com/media/iXSK3MaxYECgLjAMXF/giphy.gif" alt="threejs first app"/>
 </a>
 <div>
   <span>=></span>
-  <a href="https://sctlcd.github.io/threejs-first-app/" target="_blank" alt="threejs-first-app live link"><span>threejs-first-app live link</span></a>
+  <a href="https://sctlcd.github.io/threejs-first-app/" target="_blank"><span>threejs-first-app live link</span></a>
 </div>
 <br/><br/>
 
 <!-- threejs-lightning-storm -->
-<a href="https://github.com/sctlcd/threejs-lightning-storm" target="_blank" alt="threejs lightning storm">
-  <img align="center" width="900" src="https://media.giphy.com/media/CCP8TGd0r4yCd5rkev/giphy.gif"/>
+<a href="https://github.com/sctlcd/threejs-lightning-storm" target="_blank">
+  <img align="center" width="900" src="https://media.giphy.com/media/CCP8TGd0r4yCd5rkev/giphy.gif" alt="threejs lightning storm"/>
 </a>
 <div>
   <span>=></span>
-  <a href="https://threejs-storm.web.app/" target="_blank" alt="threejs-lightning-storm live link"><span>threejs-lightning-storm live link</span></a>
+  <a href="https://threejs-storm.web.app/" target="_blank"><span>threejs-lightning-storm live link</span></a>
 </div>
 <br/><br/>
 
 <!-- threejs-rain-storm -->
-<a href="https://github.com/sctlcd/threejs-rain-storm" target="_blank" alt="threejs rain storm">
-  <img align="center" width="900" src="https://github.com/sctlcd/sctlcd/blob/main/assets/images/threejs-rain-storm.png"/>
+<a href="https://github.com/sctlcd/threejs-rain-storm" target="_blank">
+  <img align="center" width="900" src="https://github.com/sctlcd/sctlcd/blob/main/assets/images/threejs-rain-storm.png" alt="threejs rain storm"/>
 </a>
 <div>
   <span>=></span>
-  <a href="https://threejs-rain-storm.web.app/" target="_blank" alt="threejs rain storm live link"><span>threejs-rain-storm live link</span></a>
+  <a href="https://threejs-rain-storm.web.app/" target="_blank"><span>threejs-rain-storm live link</span></a>
 </div>
 <br/><br/><br/>
 
