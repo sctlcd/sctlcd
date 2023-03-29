@@ -28,7 +28,7 @@
 
 <!-- threejs-sci-fi-portal-effect -->
 <a href="https://github.com/sctlcd/threejs-sci-fi-portal-effect" target="_blank">
-  <img align="center" width="900" src="https://media.giphy.com/media/1yEinZfoxeMDpkNfML/giphy-downsized-large.gif" alt="threejs sci-fi portal effect"/>
+  <img align="center" width="900" src="https://github.com/sctlcd/sctlcd/blob/main/assets/images/threejs-sci-fi-portal-effect-image.png" alt="threejs sci-fi portal effect"/>
 </a>
 <div>
   <span>=></span>
