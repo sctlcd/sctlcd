@@ -28,8 +28,7 @@
 
 <!-- threejs-sci-fi-portal-effect -->
 <a href="https://github.com/sctlcd/threejs-sci-fi-portal-effect" target="_blank">
-  <img align="center" width="900" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWV5a2duejU1dWE1ZG1tZ3piazdqdTVybnhuY3c2eHptdjFqN3l5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r5ycRaxWYjEKmBXwre/giphy.gif" alt="threejs sci-fi portal effect"/>
-  
+  <img align="center" width="900" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd3cnY0bWprNXF0NDlvMDJzbjlpdjNwcWNpZW50cTh1YXZuNHQyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/18lFdvt77poGZs8hIb/giphy.gif" alt="threejs sci-fi portal effect"/>
 </a>
 <!-- src="https://github.com/sctlcd/sctlcd/blob/main/assets/images/threejs-sci-fi-portal-effect-image.png" -->
 <div>
