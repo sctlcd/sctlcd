@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EC6161&height=200&section=header&text=Lucinda%20Souchet&fontSize=32&fontColor=282c34&animation=twinkling&fontAlignY=35" />
 <br/><br/><br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EC6161&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Lucinda%20Souchet;SPECIALIZATION+===+Creative+Web+Development;3D+Web+|+JavaScript+|+React+Developer;EXPERIENCE+>+7+years+in+Agile+Software+Industry;INTERESTS+===+3D+animation+and;creative+and+interactive+app+development;Welcome+to+my+profile+page!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EC6161&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Lucinda%20Souchet;SPECIALIZATION+===+Creative+Web+Development;3D+Web+|+JavaScript+|+React+Developer;EXPERIENCE+>+8+years+in+Agile+Software+Industry;INTERESTS+===+3D+animation+and;creative+and+interactive+app+development;Welcome+to+my+profile+page!)
 <br /><br /><br /><br /><br/>
 
 <div>
@@ -28,11 +28,13 @@
 
 <!-- threejs-sci-fi-portal-effect -->
 <a href="https://github.com/sctlcd/threejs-sci-fi-portal-effect" target="_blank">
-  <img align="center" width="900" src="https://github.com/sctlcd/sctlcd/blob/main/assets/images/threejs-sci-fi-portal-effect-image.png" alt="threejs sci-fi portal effect"/>
+  <img align="center" width="900" src="https://media.giphy.com/media/1yEinZfoxeMDpkNfML/giphy-downsized-large.gif" alt="threejs sci-fi portal effect"/>
+  
 </a>
+<!-- src="https://github.com/sctlcd/sctlcd/blob/main/assets/images/threejs-sci-fi-portal-effect-image.png" -->
 <div>
   <span>=></span>
-  <a href="https://threejs-sci-fi-portal-effect.web.app/" target="_blank"><span>threejs-sci-fi-portal-effect</span></a>
+  <a href="https://threejs-sci-fi-portal-effect.web.app/" target="_blank"><span>threejs-sci-fi-portal-effect live link</span></a>
 </div>
 <br/><br/>
 
@@ -48,8 +50,9 @@
 
 <!-- threejs-rain-storm -->
 <a href="https://github.com/sctlcd/threejs-rain-storm" target="_blank">
-  <img align="center" width="900" src="https://github.com/sctlcd/sctlcd/blob/main/assets/images/threejs-rain-storm.png" alt="threejs rain storm"/>
+  <img align="center" width="900" src="https://media.giphy.com/media/qNegRJ94m5uSTkqFu0/giphy.gif" alt="threejs rain storm"/>
 </a>
+<!-- src="https://github.com/sctlcd/sctlcd/blob/main/assets/images/threejs-rain-storm.png" -->
 <div>
   <span>=></span>
   <a href="https://threejs-rain-storm.web.app/" target="_blank"><span>threejs-rain-storm live link</span></a>
@@ -63,14 +66,22 @@
 ![Three.js](https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=222222&logo=Three.js&logoColor=white&?link=https://threejs.org/&label=)
 ![WebGL](https://img.shields.io/static/v1?style=for-the-badge&message=WebGL&color=222222&logo=WebGL&logoColor=990000&?link=https://www.khronos.org/webgl/&label=)
 ![Babylon.js](https://img.shields.io/static/v1?style=for-the-badge&message=Babylon.js&color=222222&logo=Babylon.js&logoColor=990000&?link=https://www.babylonjs.com/&label=)
+![React Three Fiber](https://img.shields.io/static/v1?style=for-the-badge&message=react%20three%20fiber&color=222222&logo=react%20three%20fiber&?link=https://docs.pmnd.rs/react-three-fiber/getting-started/introduction/&label=)
+![React Three Drei](https://img.shields.io/static/v1?style=for-the-badge&message=react%20three%20drei&color=222222&logo=react%20three%20drei&?link=https://github.com/pmndrs/drei/&label=)
+![React Three Cannon](https://img.shields.io/static/v1?style=for-the-badge&message=react%20three%20cannon&color=222222&logo=react%20three%20cannon&?link=https://github.com/pmndrs/use-cannon/&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&?link=https://www.javascript.com/&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=222222&logo=TypeScript&logoColor=3178C6&?link=https://www.typescriptlang.org/&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React.js&color=222222&logo=react&logoColor=61DAFB&?link=https://reactjs.org/&label=)
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=222222&logo=next.js&logoColor=white&?link=https://nextjs.org/&label=)
 ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=222222&logo=Sass&logoColor=CC6699&?link=https://sass-lang.com/&label=)
-![TailwindCSS](https://img.shields.io/static/v1?style=for-the-badge&message=tailwindcss&color=222222&logo=tailwind-css&logoColor=00000&?link=/&label=)
+![TailwindCSS](https://img.shields.io/static/v1?style=for-the-badge&message=tailwindcss&color=222222&logo=tailwind-css&logoColor=00000&?link=https://tailwindcss.com/&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=222222&logo=CSS3&logoColor=00000&?link=/&label=)
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=222222&logo=HTML5&logoColor=E34F26&?link=https://html.spec.whatwg.org/&label=)
+![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=node.js&color=222222&logo=node.js&?link=https://www.python.org/&label=)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=python&color=222222&logo=python&?link=https://www.python.org/&label=)
+![3D](https://img.shields.io/static/v1?style=for-the-badge&message=3D&color=222222&?link=&label=)
+![3D Web](https://img.shields.io/static/v1?style=for-the-badge&message=3D%20Web&color=222222&?link=&label=)
+![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=blender&color=222222&logo=blender&?link=https://www.blender.org/&label=)
 <br/>
 
 ### 💬 Languages
@@ -100,11 +111,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sctlcd&theme=onedark" alt="sctlcd's GitHub streak" width="700">
 <br/>
 
-#### 🐍 Watch my contribution graph get eaten by the snake
+<!-- #### 🐍 Watch my contribution graph get eaten by the snake -->
 
 <!-- Snake animation -->
-<img src="https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" width="800">
-<br/><br/>
+<!-- <img src="https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" width="800">
+<br/><br/> -->
 
 ## 📌 GitHub Extra Pins
 
