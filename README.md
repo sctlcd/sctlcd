@@ -7,7 +7,7 @@
 
 <div>
   <!--Profile views-->
-  <img src="https://komarev.com/ghpvc/?username=sctlcd&label=Profile%20views&color=0e75b6&style=flat" alt="sctlcd" align="center">
+  <img src="https://komarev.com/ghpvc/?username=sctlcd&label=Profile%20views&color=066D29&style=flat" alt="sctlcd" align="center">
 
   <!--Linkedin-->
   <a href="https://www.linkedin.com/in/lucinda-souchet/" target="_blank">
@@ -28,7 +28,7 @@
 
 <!-- threejs-sci-fi-portal-effect -->
 <a href="https://github.com/sctlcd/threejs-sci-fi-portal-effect" target="_blank">
-  <img align="center" width="900" src="https://media.giphy.com/media/1yEinZfoxeMDpkNfML/giphy-downsized-large.gif" alt="threejs sci-fi portal effect"/>
+  <img align="center" width="900" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd3cnY0bWprNXF0NDlvMDJzbjlpdjNwcWNpZW50cTh1YXZuNHQyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/18lFdvt77poGZs8hIb/giphy.gif" alt="threejs sci-fi portal effect"/>
   
 </a>
 <!-- src="https://github.com/sctlcd/sctlcd/blob/main/assets/images/threejs-sci-fi-portal-effect-image.png" -->
