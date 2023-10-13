@@ -26,9 +26,6 @@
 </div>
 <br/><br/>
 
-test [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
-test [here](http://stackoverflow.com){:target="_blank" rel="}
-
 <!-- threejs-sci-fi-portal-effect -->
 <a href="https://github.com/sctlcd/threejs-sci-fi-portal-effect" target="_blank">
   <img align="center" width="900" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd3cnY0bWprNXF0NDlvMDJzbjlpdjNwcWNpZW50cTh1YXZuNHQyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/18lFdvt77poGZs8hIb/giphy.gif" alt="threejs sci-fi portal effect"/>
