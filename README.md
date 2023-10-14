@@ -152,6 +152,13 @@
 </picture>
 <br/><br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sctlcd/sctlcd/blob/output/atom-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sctlcd/sctlcd/blob/output/ocean.png" />
+  <img alt="github-snake-ocean-dark" src="https://github.com/sctlcd/sctlcd/blob/output/atom-dark.png" width="800"/>
+</picture>
+<br/><br/>
+
 ## 📌 <span style="color:#c16266">GitHub Extra Pins</span>
 
 ### <span style="color:#90b061">Three.js - Web GL</span>
