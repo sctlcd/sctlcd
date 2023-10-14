@@ -120,7 +120,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sctlcd&theme=onedark" alt="sctlcd's GitHub streak" width="700">
 <br/>
 
-#### 🐍 Watch my contribution graph get eaten by the snake
+## 🐍 Watch my contribution graph get eaten by the snake
 
 <!-- Snake animation -->
 <picture>
