@@ -49,12 +49,22 @@
 
 <!-- threejs-rain-storm -->
 <a href="https://github.com/sctlcd/threejs-rain-storm" target="_blank">
-  <img align="center" width="900" src="https://media.giphy.com/media/qNegRJ94m5uSTkqFu0/giphy.gif" alt="threejs rain storm"/>
+  <img align="center" width="900" src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/d84ceb25-775a-4194-8105-c03b876193b1.gif?ClientID=vimeo-core-prod&Date=1697286562&Signature=0e6ee1cb579726307da53ff3da28021885aad471"/>
 </a>
-<!-- src="https://github.com/sctlcd/sctlcd/blob/main/assets/images/threejs-rain-storm.png" -->
+<!-- src="https://media.giphy.com/media/qNegRJ94m5uSTkqFu0/giphy.gif" alt="threejs rain storm" -->
 <div>
   <span>=></span>
   <a href="https://threejs-rain-storm.web.app/" target="_blank"><span>threejs-rain-storm live link</span></a>
+</div>
+<br/><br/>
+
+<!-- react-threejs-minecraft -->
+<a href="https://github.com/sctlcd/react-threejs-minecraft" target="_blank">
+  <img align="center" width="900" src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/cc8a09ae-0424-4216-a750-1169400e0a0a.gif?ClientID=vimeo-core-prod&Date=1697286986&Signature=a4fe5f107cabe4a5ed0c094e0ff02ffbddc9a943" alt="react threejs minecraft"/>
+</a>
+<div>
+  <span>=></span>
+  <a href="https://react-threejs-minecraft.web.app/" target="_blank"><span>react-threejs-minecraft live link</span></a>
 </div>
 <br/><br/><br/>
 
