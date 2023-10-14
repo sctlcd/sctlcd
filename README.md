@@ -49,7 +49,7 @@
 
 <!-- threejs-rain-storm -->
 <a href="https://github.com/sctlcd/threejs-rain-storm" target="_blank">
-  <img align="center" width="900" src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/d84ceb25-775a-4194-8105-c03b876193b1.gif?ClientID=vimeo-core-prod&Date=1697286562&Signature=0e6ee1cb579726307da53ff3da28021885aad471"/>
+  <img align="center" width="900" src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/22c40efe-d225-44c8-aca6-198828f59e1f.gif?ClientID=vimeo-core-prod&Date=1697289248&Signature=b4e1a5a4e5703d6c75f5422000c0c889f2120651"/>
 </a>
 <!-- src="https://media.giphy.com/media/qNegRJ94m5uSTkqFu0/giphy.gif" alt="threejs rain storm" -->
 <div>
