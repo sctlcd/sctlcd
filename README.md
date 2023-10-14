@@ -1,22 +1,18 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EC6161&height=200&section=header&text=Lucinda%20Souchet&fontSize=32&fontColor=282c34&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=be8a59&height=200&section=header&text=Lucinda%20Souchet&fontSize=32&fontColor=292d34&animation=twinkling&fontAlignY=35" />
 <br/><br/><br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EC6161&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+Lucinda%20Souchet;SPECIALIZATION+===+Creative+Web+Development;3D+Web+|+JavaScript+|+React+Developer;EXPERIENCE+>+8+years+in+Agile+Software+Industry;INTERESTS+===+3D+animation+and;creative+and+interactive+app+development;Welcome+to+my+profile+page!)
+<!-- https://github.com/DenverCoder1/readme-typing-svg -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=54&pause=1000&color=C16266&background=292D3400&center=true&vCenter=true&random=false&width=1100&lines=HELLO,+MY+NAME+===+Lucinda%20Souchet;SPECIALIZATION+===+Creative+Web+Development;3D+Web+|+JavaScript+|+React+Developer;EXPERIENCE+>+8+years+in+Agile+Software+Industry;INTERESTS+===+3D+animation+and;creative+and+interactive+app+development;Welcome+to+my+profile+page!)](https://git.io/typing-svg)
 <br /><br /><br /><br /><br/>
 
 <div>
-  <!--Profile views-->
+  <!-- Profile views -->
   <img src="https://komarev.com/ghpvc/?username=sctlcd&label=Profile%20views&color=066D29&style=for-the-badge&logo" alt="sctlcd">
+  <!-- Linkedin -->
   <a href ="https://www.linkedin.com/in/lucinda-souchet/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <!-- Gmail -->
   <a href = "mailto: lucinda.souchet@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-  <!--Linkedin-->
-  <!-- <a href="https://www.linkedin.com/in/lucinda-souchet/" target="_blank">
-  <img src="https://camo.githubusercontent.com/93ca47e21e17f622a41d26d599e008e4c30b8a322186f18019bc43d54f57b0c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3065373661383f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;" align="center">
-  </a> -->
-
-  <!-- <a href = "mailto: lucinda.souchet@gmail.com" target="_blank"><img src="https://camo.githubusercontent.com/93ca47e21e17f622a41d26d599e008e4c30b8a322186f18019bc43d54f57b0c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3065373661383f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-gmail-0e76a8?style=flat-square&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;" align="center"></a> -->
 </div>
 <br/><br/><br/>
 
@@ -25,8 +21,8 @@
   <img align="center" width="900" src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/cc8a09ae-0424-4216-a750-1169400e0a0a.gif?ClientID=vimeo-core-prod&Date=1697286986&Signature=a4fe5f107cabe4a5ed0c094e0ff02ffbddc9a943" alt="react threejs minecraft"/>
 </a>
 <div>
-  <span>=></span>
-  <a href="https://react-threejs-minecraft.web.app/" target="_blank"><span>react-threejs-minecraft live link</span></a>
+  <span style="color:#90b061; font-weight:bold">=></span>
+  <a href="https://react-threejs-minecraft.web.app/" target="_blank" style="color:#90b061; font-weight:bold"><span>react-threejs-minecraft live link</span></a>
 </div>
 <br/><br/>
 
@@ -35,8 +31,8 @@
   <img align="center" width="900" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd3cnY0bWprNXF0NDlvMDJzbjlpdjNwcWNpZW50cTh1YXZuNHQyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/18lFdvt77poGZs8hIb/giphy.gif" alt="threejs sci-fi portal effect"/>
 </a>
 <div>
-  <span>=></span>
-  <a href="https://threejs-sci-fi-portal-effect.web.app/" target="_blank"><span>threejs-sci-fi-portal-effect live link</span></a>
+  <span style="color:#90b061; font-weight:bold">=></span>
+  <a href="https://threejs-sci-fi-portal-effect.web.app/" target="_blank" style="color:#90b061; font-weight:bold"><span >threejs-sci-fi-portal-effect live link</span></a>
 </div>
 <br/><br/>
 
@@ -45,8 +41,8 @@
   <img align="center" width="900" src="https://media.giphy.com/media/iXSK3MaxYECgLjAMXF/giphy.gif" alt="threejs first app"/>
 </a>
 <div>
-  <span>=></span>
-  <a href="https://sctlcd.github.io/threejs-first-app/" target="_blank"><span>threejs-first-app live link</span></a>
+  <span style="color:#90b061; font-weight:bold">=></span>
+  <a href="https://sctlcd.github.io/threejs-first-app/" target="_blank" style="color:#90b061; font-weight:bold"><span>threejs-first-app live link</span></a>
 </div>
 <br/><br/>
 
@@ -55,8 +51,8 @@
   <img align="center" width="900" src="https://media.giphy.com/media/CCP8TGd0r4yCd5rkev/giphy.gif" alt="threejs lightning storm"/>
 </a>
 <div>
-  <span>=></span>
-  <a href="https://threejs-storm.web.app/" target="_blank"><span>threejs-lightning-storm live link</span></a>
+  <span style="color:#90b061; font-weight:bold">=></span>
+  <a href="https://threejs-storm.web.app/" target="_blank" style="color:#90b061; font-weight:bold"><span>threejs-lightning-storm live link</span></a>
 </div>
 <br/><br/>
 
@@ -67,16 +63,16 @@
 <!-- src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/a1f2182e-3af7-4147-9c2f-eeca908b410b.gif?ClientID=vimeo-core-prod&Date=1697290114&Signature=7734bce186009f709142903e784df3b7f1a3ee36" -->
 <!-- src="https://media.giphy.com/media/qNegRJ94m5uSTkqFu0/giphy.gif" -->
 <div>
-  <span>=></span>
-  <a href="https://threejs-rain-storm.web.app/" target="_blank"><span>threejs-rain-storm live link</span></a>
+  <span style="color:#90b061; font-weight:bold">=></span>
+  <a href="https://threejs-rain-storm.web.app/" target="_blank" style="color:#90b061; font-weight:bold"><span>threejs-rain-storm live link</span></a>
 </div>
 <br/><br/><br/>
 
-## 👩‍💻 About me 👩‍🎨
+## 👩‍💻 <span style="color:#c16266">About me</span> 👩‍🎨
 
-### 🔧 Interests and/or skills
+### 🔧 <span style="color:#90b061">Interests and/or skills</span>
 
-![Three.js](<https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=222222&logo=Three.js&logoColor=white&?link=https://threejs.org/&label=>)
+![Three.js](https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=222222&logo=Three.js&logoColor=white&?link=https://threejs.org/&label=)
 ![WebGL](https://img.shields.io/static/v1?style=for-the-badge&message=WebGL&color=222222&logo=WebGL&logoColor=990000&?link=https://www.khronos.org/webgl/&label=)
 ![Babylon.js](https://img.shields.io/static/v1?style=for-the-badge&message=Babylon.js&color=222222&logo=Babylon.js&logoColor=990000&?link=https://www.babylonjs.com/&label=)
 ![React Three Fiber](https://img.shields.io/static/v1?style=for-the-badge&message=react%20three%20fiber&color=222222&logo=react%20three%20fiber&?link=https://docs.pmnd.rs/react-three-fiber/getting-started/introduction/&label=)
@@ -97,13 +93,13 @@
 ![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=blender&color=222222&logo=blender&?link=https://www.blender.org/&label=)
 <br/>
 
-### 💬 Languages
+### 💬 <span style="color:#90b061">Languages</span>
 
 ![English](https://img.shields.io/static/v1?style=for-the-badge&message=English&color=222222&label=)
 ![French](https://img.shields.io/static/v1?style=for-the-badge&message=French&color=222222&label=)
 <br/><br/><br/>
 
-## 📈 GitHub Stats
+## 📈 <span style="color:#c16266">GitHub Stats</span>
 
 <br/>
 <!-- sctlcd's GitHub skyline -->
@@ -124,20 +120,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sctlcd&theme=onedark" alt="sctlcd's GitHub streak" width="700">
 <br/>
 
-#### 🐍 Watch my contribution graph get eaten by the snake
+#### 🐍 <span style="color:#90b061">Watch my contribution graph get eaten by the snake</span>
 
 <!-- Snake animation -->
-<!-- <img src="https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake.svg" alt="Snake anin" width="800">
-<br/><br/>
-
-<img src="https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake anin" width="800">
-<br/><br/>
-
-![Snake animation](https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake.svg)
-<br/><br/>
-
-![Snake animation](https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake-dark.svg)
-<br/><br/> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sctlcd/sctlcd/blob/output/github-snake-dark.svg" />
@@ -146,7 +131,7 @@
 </picture>
 <br/><br/>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sctlcd/sctlcd/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/sctlcd/sctlcd/blob/output/github-snake.svg" />
   <img alt="github-snake-dark" src="https://github.com/sctlcd/sctlcd/blob/output/github-snake-dark.svg" width="800"/>
@@ -158,19 +143,18 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/sctlcd/sctlcd/blob/output/ocean.svg" />
   <img alt="github-snake-ocean" src="https://github.com/sctlcd/sctlcd/blob/output/ocean.svg" width="800"/>
 </picture>
-<br/><br/>
+<br/><br/> -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sctlcd/sctlcd/blob/output/ocean-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sctlcd/sctlcd/blob/output/atom-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/sctlcd/sctlcd/blob/output/ocean.svg" />
-  <img alt="github-snake-ocean-dark" src="https://github.com/sctlcd/sctlcd/blob/output/ocean-dark.svg" width="800"/>
+  <img alt="github-snake-ocean-dark" src="https://github.com/sctlcd/sctlcd/blob/output/atom-dark.svg" width="800"/>
 </picture>
-<!-- https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" -->
 <br/><br/>
 
-## 📌 GitHub Extra Pins
+## 📌 <span style="color:#c16266">GitHub Extra Pins</span>
 
-### Three.js - Web GL
+### <span style="color:#90b061">Three.js - Web GL</span>
 
 <a href="https://github.com/sctlcd/react-threejs-minecraft">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-minecraft&show_owner=true&theme=onedark" />
@@ -208,14 +192,14 @@
 </a>
 <br/><br/>
 
-### Particules.js
+### <span style="color:#90b061">Particules.js</span>
 
 <a href="https://github.com/sctlcd/particlesjs-first-app">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=particlesjs-first-app&show_owner=true&theme=onedark" />
 </a>
 <br/><br/>
 
-### React 17 / 18
+### <span style="color:#90b061">React 17 / 18</span>
 
 <a href="https://github.com/sctlcd/react-threejs-minecraft">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-minecraft&show_owner=true&theme=onedark" />
@@ -235,7 +219,7 @@
 </a>
 <br/><br/>
 
-### Angular 11 / 12
+### <span style="color:#90b061">Angular 11 / 12</span>
 
 <a href="https://github.com/sctlcd/angular-video-search-engine-v2">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=angular-video-search-engine-v2&show_owner=true&theme=onedark" />
@@ -246,14 +230,14 @@
 </a>
 <br/><br/>
 
-### Vue 3
+### <span style="color:#90b061">Vue 3</span>
 
 <a href="https://github.com/sctlcd/vue-threejs-first-app">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=vue-threejs-first-app&show_owner=true&theme=onedark" />
 </a>
 <br/><br/>
 
-### JavaScript
+### <span style="color:#90b061">JavaScript</span>
 
 <a href="https://github.com/sctlcd/pearl-latest-version">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=pearl-latest-version&show_owner=true&theme=onedark" />
@@ -289,6 +273,23 @@
 <a href="https://github.com/sctlcd/js-clock">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=js-clock&show_owner=true&theme=onedark" />
 </a>
+<br/><br/>
+
+### <span style="color:#90b061">Python</span>
+
+<a href="https://github.com/sctlcd/pearl-latest-version">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=pearl-latest-version&show_owner=true&theme=onedark" />
+</a>
+
+<a href="https://github.com/sctlcd/boutique-ado-customized-latest-version">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=boutique-ado-customized-latest-version&show_owner=true&theme=onedark" />
+</a>
+<br/><br/>
+
+<a href="https://github.com/sctlcd/the-green-corner">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=the-green-corner&show_owner=true&theme=onedark" />
+</a>
+
 
 <br/><br/><br/><br/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EC6161&height=200&section=footer&text=Thank%20you!&fontSize=28&fontColor=282c34&animation=twinkling&fontAlignY=65" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=be8a59&height=200&section=footer&text=Thank%20you!&fontSize=28&fontColor=292d34&animation=twinkling&fontAlignY=65" />
