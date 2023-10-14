@@ -124,13 +124,6 @@
 
 <!-- Snake animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sctlcd/sctlcd/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sctlcd/sctlcd/blob/output/github-snake-light.svg" />
-  <img alt="github-snake-animation" src="https://github.com/sctlcd/sctlcd/blob/output/github-snake-dark.svg" width="800"/>
-</picture>
-<br/><br/>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sctlcd/sctlcd/blob/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/sctlcd/sctlcd/blob/output/snake-light.svg" />
   <img alt="snake-animation" src="https://github.com/sctlcd/sctlcd/blob/output/snake-dark.svg" width="800"/>
