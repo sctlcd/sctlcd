@@ -1,9 +1,9 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c40606&height=200&section=header&text=Lucinda%20Souchet&fontSize=32&fontColor=292d34&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bf3434&height=200&section=header&text=Lucinda%20Souchet&fontSize=32&fontColor=292d34&animation=twinkling&fontAlignY=35" />
 <br/><br/><br/>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=54&pause=1000&color=c40606&background=292D3400&center=true&vCenter=true&random=false&width=1100&lines=HELLO,+MY+NAME+===+Lucinda%20Souchet;SPECIALIZATION+===+Creative+Web+Development;3D+Web+|+JavaScript+|+React+Developer;EXPERIENCE+>+8+years+in+Agile+Software+Industry;INTERESTS+===+3D+animation+and;creative+and+interactive+app+development;Welcome+to+my+profile+page!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=54&pause=1000&color=bf3434&background=292D3400&center=true&vCenter=true&random=false&width=1100&lines=HELLO,+MY+NAME+===+Lucinda%20Souchet;SPECIALIZATION+===+Creative+Web+Development;3D+Web+|+JavaScript+|+React+Developer;EXPERIENCE+>+8+years+in+Agile+Software+Industry;INTERESTS+===+3D+animation+and;creative+and+interactive+app+development;Welcome+to+my+profile+page!)](https://git.io/typing-svg)
 <br /><br /><br /><br /><br/>
 
 <div>
@@ -120,42 +120,20 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sctlcd&theme=onedark" alt="sctlcd's GitHub streak" width="700">
 <br/>
 
-#### 🐍 <span style="color:#90b061">Watch my contribution graph get eaten by the snake</span>
+#### 🐍 Watch my contribution graph get eaten by the snake
 
 <!-- Snake animation -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sctlcd/sctlcd/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sctlcd/sctlcd/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/sctlcd/sctlcd/blob/output/github-snake.svg" width="800"/>
-</picture>
-<br/><br/>
-
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sctlcd/sctlcd/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sctlcd/sctlcd/blob/output/github-snake.svg" />
-  <img alt="github-snake-dark" src="https://github.com/sctlcd/sctlcd/blob/output/github-snake-dark.svg" width="800"/>
-</picture>
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sctlcd/sctlcd/blob/output/ocean-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sctlcd/sctlcd/blob/output/ocean.svg" />
-  <img alt="github-snake-ocean" src="https://github.com/sctlcd/sctlcd/blob/output/ocean.svg" width="800"/>
-</picture>
-<br/><br/> -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sctlcd/sctlcd/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/sctlcd/sctlcd/blob/output/github-snake-light.svg" />
-  <img alt="github-snake-dark" src="https://github.com/sctlcd/sctlcd/blob/output/github-snake-dark.svg" width="800"/>
+  <img alt="github-snake-animation" src="https://github.com/sctlcd/sctlcd/blob/output/github-snake-dark.svg" width="800"/>
 </picture>
 <br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sctlcd/sctlcd/blob/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/sctlcd/sctlcd/blob/output/snake-light.svg" />
-  <img alt="snake-dark" src="https://github.com/sctlcd/sctlcd/blob/output/snake-dark.svg" width="800"/>
+  <img alt="snake-animation" src="https://github.com/sctlcd/sctlcd/blob/output/snake-dark.svg" width="800"/>
 </picture>
 <br/><br/>
 
@@ -299,4 +277,4 @@
 
 
 <br/><br/><br/><br/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c40606&height=200&section=footer&text=Thank%20you!&fontSize=28&fontColor=292d34&animation=twinkling&fontAlignY=65" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bf3434&height=200&section=footer&text=Thank%20you!&fontSize=28&fontColor=292d34&animation=twinkling&fontAlignY=65" />
