@@ -8,7 +8,7 @@
 
 <div>
   <!-- Profile views -->
-  <img src="https://komarev.com/ghpvc/?username=sctlcd&label=Profile%20views&color=066D29&style=for-the-badge&logo" alt="sctlcd">
+  <img src="https://komarev.com/ghpvc/?username=sctlcd&label=Profile%20views&color=008909&style=for-the-badge&logo" alt="sctlcd">
   <!-- Linkedin -->
   <a href ="https://www.linkedin.com/in/lucinda-souchet/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <!-- Gmail -->
