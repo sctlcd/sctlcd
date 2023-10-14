@@ -16,13 +16,13 @@
 </div>
 <br/><br/><br/>
 
-<!--threejs planet and its satelits-->
-<a href="https://github.com/sctlcd/threejs-first-app" target="_blank">
-  <img align="center" width="900" src="https://media.giphy.com/media/iXSK3MaxYECgLjAMXF/giphy.gif" alt="threejs first app"/>
+<!-- react-threejs-minecraft -->
+<a href="https://github.com/sctlcd/react-threejs-minecraft" target="_blank">
+  <img align="center" width="900" src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/cc8a09ae-0424-4216-a750-1169400e0a0a.gif?ClientID=vimeo-core-prod&Date=1697286986&Signature=a4fe5f107cabe4a5ed0c094e0ff02ffbddc9a943" alt="react threejs minecraft"/>
 </a>
 <div>
   <span>=></span>
-  <a href="https://sctlcd.github.io/threejs-first-app/" target="_blank"><span>threejs-first-app live link</span></a>
+  <a href="https://react-threejs-minecraft.web.app/" target="_blank"><span>react-threejs-minecraft live link</span></a>
 </div>
 <br/><br/>
 
@@ -30,10 +30,19 @@
 <a href="https://github.com/sctlcd/threejs-sci-fi-portal-effect" target="_blank">
   <img align="center" width="900" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd3cnY0bWprNXF0NDlvMDJzbjlpdjNwcWNpZW50cTh1YXZuNHQyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/18lFdvt77poGZs8hIb/giphy.gif" alt="threejs sci-fi portal effect"/>
 </a>
-<!-- src="https://github.com/sctlcd/sctlcd/blob/main/assets/images/threejs-sci-fi-portal-effect-image.png" -->
 <div>
   <span>=></span>
   <a href="https://threejs-sci-fi-portal-effect.web.app/" target="_blank"><span>threejs-sci-fi-portal-effect live link</span></a>
+</div>
+<br/><br/>
+
+<!--threejs planet and its satelits-->
+<a href="https://github.com/sctlcd/threejs-first-app" target="_blank">
+  <img align="center" width="900" src="https://media.giphy.com/media/iXSK3MaxYECgLjAMXF/giphy.gif" alt="threejs first app"/>
+</a>
+<div>
+  <span>=></span>
+  <a href="https://sctlcd.github.io/threejs-first-app/" target="_blank"><span>threejs-first-app live link</span></a>
 </div>
 <br/><br/>
 
@@ -56,16 +65,6 @@
 <div>
   <span>=></span>
   <a href="https://threejs-rain-storm.web.app/" target="_blank"><span>threejs-rain-storm live link</span></a>
-</div>
-<br/><br/>
-
-<!-- react-threejs-minecraft -->
-<a href="https://github.com/sctlcd/react-threejs-minecraft" target="_blank">
-  <img align="center" width="900" src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/cc8a09ae-0424-4216-a750-1169400e0a0a.gif?ClientID=vimeo-core-prod&Date=1697286986&Signature=a4fe5f107cabe4a5ed0c094e0ff02ffbddc9a943" alt="react threejs minecraft"/>
-</a>
-<div>
-  <span>=></span>
-  <a href="https://react-threejs-minecraft.web.app/" target="_blank"><span>react-threejs-minecraft live link</span></a>
 </div>
 <br/><br/><br/>
 
@@ -121,11 +120,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sctlcd&theme=onedark" alt="sctlcd's GitHub streak" width="700">
 <br/>
 
-<!-- #### 🐍 Watch my contribution graph get eaten by the snake -->
+#### 🐍 Watch my contribution graph get eaten by the snake
 
 <!-- Snake animation -->
-<!-- <img src="https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" width="800">
-<br/><br/> -->
+<img src="https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" width="800">
+<br/><br/>
 
 ## 📌 GitHub Extra Pins
 
