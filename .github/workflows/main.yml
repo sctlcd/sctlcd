@@ -109,10 +109,10 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-            dist/ocean.png?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-            dist/atom-dark.svg?color_snake=#90b061&color_dots=#9da39d,#be8a59,#b67d47,#a47140,#926439,#725235
-            dist/atom-dark.png?color_snake=#90b061&color_dots=#9da39d,#be8a59,#b67d47,#a47140,#926439,#725235
+            dist/ocean.svg?color_snake=orange&color_dots=d6#bff6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/atom-dark.svg?color_snake=#d6cf02&color_dots=#282c34,#c22f2f,#c41b1b,#c40606,#910000
+            dist/atom-dark.gif?color_snake=#d6cf02&color_dots=#282c34,#c22f2f,#c41b1b,#c40606,#910000
       
         env:
           # a github token is required to fetch the contribution calendar from github API

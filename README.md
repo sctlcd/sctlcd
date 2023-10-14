@@ -153,9 +153,9 @@
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sctlcd/sctlcd/blob/output/atom-dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sctlcd/sctlcd/blob/output/ocean.png" />
-  <img alt="github-snake-ocean-dark" src="https://github.com/sctlcd/sctlcd/blob/output/atom-dark.png" width="800"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sctlcd/sctlcd/blob/output/atom-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sctlcd/sctlcd/blob/output/ocean.gif" />
+  <img alt="github-snake-ocean-dark" src="https://github.com/sctlcd/sctlcd/blob/output/atom-dark.gif" width="800"/>
 </picture>
 <br/><br/>
 
