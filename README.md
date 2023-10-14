@@ -127,7 +127,7 @@
 #### 🐍 Watch my contribution graph get eaten by the snake
 
 <!-- Snake animation -->
-<img src="https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake.svg" alt="Snake anin" width="800">
+<!-- <img src="https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake.svg" alt="Snake anin" width="800">
 <br/><br/>
 
 <img src="https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake anin" width="800">
@@ -137,13 +137,35 @@
 <br/><br/>
 
 ![Snake animation](https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake-dark.svg)
+<br/><br/> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/sctlcd/sctlcd/blob/output/github-snake.svg" />
+</picture>
 <br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <img alt="github-snake-dark" src="https://github.com/sctlcd/sctlcd/blob/output/github-snake-dark.svg" />
 </picture>
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake-ocean" src="https://github.com/sctlcd/sctlcd/blob/output/ocean.svg" />
+</picture>
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake-ocean-dark" src="https://github.com/sctlcd/sctlcd/blob/output/ocean-dark.svg" />
+</picture>
+https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
 <br/><br/>
 
 ## 📌 GitHub Extra Pins
