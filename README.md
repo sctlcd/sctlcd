@@ -140,32 +140,32 @@
 <br/><br/> -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/sctlcd/sctlcd/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sctlcd/sctlcd/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sctlcd/sctlcd/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/sctlcd/sctlcd/blob/output/github-snake.svg" width="800"/>
 </picture>
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake-dark" src="https://github.com/sctlcd/sctlcd/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sctlcd/sctlcd/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sctlcd/sctlcd/blob/output/github-snake.svg" />
+  <img alt="github-snake-dark" src="https://github.com/sctlcd/sctlcd/blob/output/github-snake-dark.svg" width="800"/>
 </picture>
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake-ocean" src="https://github.com/sctlcd/sctlcd/blob/output/ocean.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sctlcd/sctlcd/blob/output/ocean-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sctlcd/sctlcd/blob/output/ocean.svg" />
+  <img alt="github-snake-ocean" src="https://github.com/sctlcd/sctlcd/blob/output/ocean.svg" width="800"/>
 </picture>
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake-ocean-dark" src="https://github.com/sctlcd/sctlcd/blob/output/ocean-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sctlcd/sctlcd/blob/output/ocean-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sctlcd/sctlcd/blob/output/ocean.svg" />
+  <img alt="github-snake-ocean-dark" src="https://github.com/sctlcd/sctlcd/blob/output/ocean-dark.svg" width="800"/>
 </picture>
-https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+<!-- https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" -->
 <br/><br/>
 
 ## 📌 GitHub Extra Pins
