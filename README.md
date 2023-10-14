@@ -7,12 +7,16 @@
 
 <div>
   <!--Profile views-->
-  <img src="https://komarev.com/ghpvc/?username=sctlcd&label=Profile%20views&color=066D29&style=flat" alt="sctlcd" align="center">
+  <img src="https://komarev.com/ghpvc/?username=sctlcd&label=Profile%20views&color=066D29&style=for-the-badge&logo" alt="sctlcd">
+  <a href ="https://www.linkedin.com/in/lucinda-souchet/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto: lucinda.souchet@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   <!--Linkedin-->
-  <a href="https://www.linkedin.com/in/lucinda-souchet/" target="_blank">
+  <!-- <a href="https://www.linkedin.com/in/lucinda-souchet/" target="_blank">
   <img src="https://camo.githubusercontent.com/93ca47e21e17f622a41d26d599e008e4c30b8a322186f18019bc43d54f57b0c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3065373661383f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;" align="center">
-  </a>
+  </a> -->
+
+  <!-- <a href = "mailto: lucinda.souchet@gmail.com" target="_blank"><img src="https://camo.githubusercontent.com/93ca47e21e17f622a41d26d599e008e4c30b8a322186f18019bc43d54f57b0c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3065373661383f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-gmail-0e76a8?style=flat-square&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;" align="center"></a> -->
 </div>
 <br/><br/><br/>
 
@@ -72,7 +76,7 @@
 
 ### 🔧 Interests and/or skills
 
-![Three.js](https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=222222&logo=Three.js&logoColor=white&?link=https://threejs.org/&label=)
+![Three.js](<https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=222222&logo=Three.js&logoColor=white&?link=https://threejs.org/&label=>)
 ![WebGL](https://img.shields.io/static/v1?style=for-the-badge&message=WebGL&color=222222&logo=WebGL&logoColor=990000&?link=https://www.khronos.org/webgl/&label=)
 ![Babylon.js](https://img.shields.io/static/v1?style=for-the-badge&message=Babylon.js&color=222222&logo=Babylon.js&logoColor=990000&?link=https://www.babylonjs.com/&label=)
 ![React Three Fiber](https://img.shields.io/static/v1?style=for-the-badge&message=react%20three%20fiber&color=222222&logo=react%20three%20fiber&?link=https://docs.pmnd.rs/react-three-fiber/getting-started/introduction/&label=)
@@ -124,6 +128,9 @@
 
 <!-- Snake animation -->
 <img src="https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" width="800">
+<br/><br/>
+
+![Snake animation](https://github.com/sctlcd/sctlcd/blob/output/github-contribution-grid-snake.svg)
 <br/><br/>
 
 ## 📌 GitHub Extra Pins
