@@ -42,8 +42,8 @@ jobs:
           outputs: |
             dist/github-snake-light.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/snake-dark.svg?color_snake=#d6cf02&color_dots=#5c6370,#fe2727,#cc0000,#990000,#660000
-            dist/snake-light.svg?color_snake=#8fce00&color_dots=#ececec,#6124fc,#4719bc,#351c75,#20124d
+            dist/snake-dark.svg?color_snake=#d6cf02&color_dots=#5c6370,#ff3d3d,#e03a3a,#cc0000,#990000,#660000
+            dist/snake-light.svg?color_snake=#8fce00&color_dots=#ececec,#6c3beb,#4719bc,#351c75,#20124d
       
         env:
           # a github token is required to fetch the contribution calendar from github API
