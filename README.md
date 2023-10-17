@@ -28,8 +28,9 @@
 
 <!-- threejs-sci-fi-portal-effect -->
 <a href="https://github.com/sctlcd/threejs-sci-fi-portal-effect" target="_blank">
-  <img align="center" width="900" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd3cnY0bWprNXF0NDlvMDJzbjlpdjNwcWNpZW50cTh1YXZuNHQyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/18lFdvt77poGZs8hIb/giphy.gif" alt="threejs sci-fi portal effect"/>
+  <img align="center" width="900" src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/7bf5b66a-d90c-4d13-81bf-194c9ff9ec85.gif?ClientID=vimeo-core-prod&Date=1697547938&Signature=183bd2992280a2fef9020e800fd27fffe203bb7f" alt="threejs sci-fi portal effect"/>
 </a>
+<!-- src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd3cnY0bWprNXF0NDlvMDJzbjlpdjNwcWNpZW50cTh1YXZuNHQyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/18lFdvt77poGZs8hIb/giphy.gif" -->
 <div>
   <span>=></span>
   <a href="https://threejs-sci-fi-portal-effect.web.app/" target="_blank"><span >threejs-sci-fi-portal-effect live link</span></a>
@@ -38,8 +39,9 @@
 
 <!--threejs planet and its satelits-->
 <a href="https://github.com/sctlcd/threejs-first-app" target="_blank">
-  <img align="center" width="900" src="https://media.giphy.com/media/iXSK3MaxYECgLjAMXF/giphy.gif" alt="threejs first app"/>
+  <img align="center" width="900" src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/99b34328-4aaa-4ec0-951b-760ae7e753c6.gif?ClientID=vimeo-core-prod&Date=1697548021&Signature=84d971d226adcdaf35056c869e693111c32d16af" alt="threejs first app"/>
 </a>
+<!-- src="https://media.giphy.com/media/iXSK3MaxYECgLjAMXF/giphy.gif" -->
 <div>
   <span>=></span>
   <a href="https://sctlcd.github.io/threejs-first-app/" target="_blank"><span>threejs-first-app live link</span></a>
