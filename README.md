@@ -28,7 +28,7 @@
 
 <!-- threejs-sci-fi-portal-effect -->
 <a href="https://github.com/sctlcd/threejs-sci-fi-portal-effect" target="_blank">
-  <img align="center" width="900" src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/c016c629-d12e-4389-b707-14d9a2955ec0.gif?ClientID=vimeo-core-prod&Date=1697550090&Signature=ab878fd551c258926f4c3002d842be935c363dcb" alt="threejs sci-fi portal effect"/>
+  <img align="center" width="900" src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/ab92e3ef-944e-4fec-8db6-ad1027a9708d.gif?ClientID=vimeo-core-prod&Date=1697550932&Signature=46f6ea74d11c511947511c5c9f59295a84853f25" alt="threejs sci-fi portal effect"/>
 </a>
 <div>
   <span>=></span>
