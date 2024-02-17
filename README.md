@@ -37,6 +37,16 @@
 <!-- src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd3cnY0bWprNXF0NDlvMDJzbjlpdjNwcWNpZW50cTh1YXZuNHQyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/18lFdvt77poGZs8hIb/giphy.gif" -->
 <br/><br/>
 
+<!-- threejs-moon -->
+<a href="https://github.com/sctlcd/threejs-moon" target="_blank">
+  <img align="center" width="900" src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/807e57c9-2305-43e7-9411-835e90991f37.gif?ClientID=vimeo-core-prod&Date=1708180144&Signature=b662a39d46ccf746473260ae77e96ae83ff9c211" alt="threejs moon"/>
+</a>
+<div>
+  <span>=></span>
+  <a href="https://threejs-moon.web.app/" target="_blank"><span >threejs-moon live link</span></a>
+</div>
+<br/><br/>
+
 <!--threejs planet and its satelits-->
 <a href="https://github.com/sctlcd/threejs-first-app" target="_blank">
   <img align="center" width="900" src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/99b34328-4aaa-4ec0-951b-760ae7e753c6.gif?ClientID=vimeo-core-prod&Date=1697548021&Signature=84d971d226adcdaf35056c869e693111c32d16af" alt="threejs first app"/>
@@ -196,6 +206,15 @@
 
 <a href="https://github.com/sctlcd/react-tic-tac-toe">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-tic-tac-toe&show_owner=true&theme=onedark" />
+</a>
+<br/><br/>
+
+<a href="https://github.com/sctlcd/react-image-carousel">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-image-carousel&show_owner=true&theme=onedark" />
+</a>
+
+<a href="https://github.com/sctlcd/react-music-bands-list">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-music-bands-list&show_owner=true&theme=onedark" />
 </a>
 <br/><br/>
 
