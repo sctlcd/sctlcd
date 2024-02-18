@@ -39,7 +39,7 @@
 
 <!-- threejs-moon -->
 <a href="https://github.com/sctlcd/threejs-moon" target="_blank">
-  <img align="center" width="900" src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/10fa8313-ff67-4d02-be8c-a3aa96bf7b31.gif?ClientID=vimeo-core-prod&Date=1708181681&Signature=07c08d909dc977c4607e73b34dabecca3504c6ca" alt="threejs moon"/>
+  <img align="center" width="900" src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/ba556b4d-cd8b-4446-8af8-bf1c691bb3fd.gif?ClientID=vimeo-core-prod&Date=1708288501&Signature=9edb71200dab9729dc609b5222f74ea38adc117b" alt="threejs moon"/>
 </a>
 <div>
   <span>=></span>
