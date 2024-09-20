@@ -3,7 +3,7 @@
 <br/><br/><br/>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=54&pause=1000&color=bf3434&background=292D3400&center=true&vCenter=true&random=false&width=1100&lines=HELLO,+MY+NAME+===+Lucinda%20Souchet;SPECIALIZATION+===+Creative+Web+Development;JavaScript+|+React+|+3D+Web+Developer;EXPERIENCE+>+9+years+in+Agile+Software+Industry;INTERESTS+===+creative+and;interactive+app+development;3D+Web+|+VR+|+AR+|+MR;Welcome+to+my+profile+page!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=54&pause=1000&color=bf3434&background=292D3400&center=true&vCenter=true&random=false&width=1100&lines=HELLO,+MY+NAME+===+Lucinda%20Souchet;SPECIALIZATION+===+Creative+Frontend;Web+Development;JavaScript+|+React+|+3D+Web;EXPERIENCE+>+9+years+in+Agile+Software+Industry;INTERESTS+===+Creative+and+interactive+Frontend;web+app+development;3D+Web+|+VR+|+AR+|+MR;Welcome+to+my+profile+page!)](https://git.io/typing-svg)
 <br /><br /><br /><br /><br/>
 
 <div>
