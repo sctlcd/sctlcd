@@ -218,6 +218,15 @@
 </a>
 <br/><br/>
 
+<a href="https://github.com/sctlcd/react-api-requests">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-api-requests&show_owner=true&theme=onedark" />
+</a>
+
+<a href="https://github.com/sctlcd/react-altitude-controller">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-altitude-controller&show_owner=true&theme=onedark" />
+</a>
+<br/><br/>
+
 ### Angular 11 / 12
 
 <a href="https://github.com/sctlcd/angular-video-search-engine-v2">
