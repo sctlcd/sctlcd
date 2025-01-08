@@ -70,7 +70,7 @@
 
 <!-- react-threejs-car-racing -->
 <a href="https://github.com/sctlcd/react-threejs-car-racing" target="_blank">
-  <img align="center" width="900" src="https://github.com/sctlcd/sctlcd/pictures/react-threejs-car-racing-preview.png" alt="react threejs car racing"/>
+  <img align="center" width="900" src="https://github.com/sctlcd/react-threejs-car-racing/blob/main/design/react-threejs-car-racing-preview.png" alt="react threejs car racing"/>
 </a>
 <div>
   <span>=></span>
