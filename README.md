@@ -68,6 +68,16 @@
 </div>
 <br/><br/>
 
+<!-- react-threejs-car-racing -->
+<a href="https://github.com/sctlcd/react-threejs-car-racing" target="_blank">
+  <img align="center" width="900" src="https://github.com/sctlcd/sctlcd/pictures/react-threejs-car-racing-preview.png" alt="react threejs car racing"/>
+</a>
+<div>
+  <span>=></span>
+  <a href="https://react-threejs-car-racing.vercel.app/" target="_blank"><span>react-threejs-car-racing live link ## IN PROGRESS ##</span></a>
+</div>
+<br/><br/>
+
 <!-- threejs-rain-storm -->
 <a href="https://github.com/sctlcd/threejs-rain-storm" target="_blank">
   <img align="center" width="900" src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/a1f2182e-3af7-4147-9c2f-eeca908b410b.gif?ClientID=vimeo-core-prod&Date=1697291049&Signature=90d46c1205377cb45295b41ec79c3258c434341e" alt="threejs rain storm"/>
