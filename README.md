@@ -104,12 +104,6 @@
 
 ### 🔧 Interests and/or skills
 
-![Three.js](https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=222222&logo=Three.js&logoColor=white&?link=https://threejs.org/&label=)
-![WebGL](https://img.shields.io/static/v1?style=for-the-badge&message=WebGL&color=222222&logo=WebGL&logoColor=990000&?link=https://www.khronos.org/webgl/&label=)
-![Babylon.js](https://img.shields.io/static/v1?style=for-the-badge&message=Babylon.js&color=222222&logo=Babylon.js&logoColor=990000&?link=https://www.babylonjs.com/&label=)
-![React Three Fiber](https://img.shields.io/static/v1?style=for-the-badge&message=react%20three%20fiber&color=222222&logo=react%20three%20fiber&?link=https://docs.pmnd.rs/react-three-fiber/getting-started/introduction/&label=)
-![React Three Drei](https://img.shields.io/static/v1?style=for-the-badge&message=react%20three%20drei&color=222222&logo=react%20three%20drei&?link=https://github.com/pmndrs/drei/&label=)
-![React Three Cannon](https://img.shields.io/static/v1?style=for-the-badge&message=react%20three%20cannon&color=222222&logo=react%20three%20cannon&?link=https://github.com/pmndrs/use-cannon/&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&?link=https://www.javascript.com/&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=222222&logo=TypeScript&logoColor=3178C6&?link=https://www.typescriptlang.org/&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React.js&color=222222&logo=react&logoColor=61DAFB&?link=https://reactjs.org/&label=)
@@ -120,6 +114,12 @@
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=222222&logo=HTML5&logoColor=E34F26&?link=https://html.spec.whatwg.org/&label=)
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=node.js&color=222222&logo=node.js&?link=https://www.python.org/&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=python&color=222222&logo=python&?link=https://www.python.org/&label=)
+![Three.js](https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=222222&logo=Three.js&logoColor=white&?link=https://threejs.org/&label=)
+![WebGL](https://img.shields.io/static/v1?style=for-the-badge&message=WebGL&color=222222&logo=WebGL&logoColor=990000&?link=https://www.khronos.org/webgl/&label=)
+![React Three Drei](https://img.shields.io/static/v1?style=for-the-badge&message=react%20three%20drei&color=222222&logo=react%20three%20drei&?link=https://github.com/pmndrs/drei/&label=)
+![React Three Cannon](https://img.shields.io/static/v1?style=for-the-badge&message=react%20three%20cannon&color=222222&logo=react%20three%20cannon&?link=https://github.com/pmndrs/use-cannon/&label=)
+![React Three Fiber](https://img.shields.io/static/v1?style=for-the-badge&message=react%20three%20fiber&color=222222&logo=react%20three%20fiber&?link=https://docs.pmnd.rs/react-three-fiber/getting-started/introduction/&label=)
+![Babylon.js](https://img.shields.io/static/v1?style=for-the-badge&message=Babylon.js&color=222222&logo=Babylon.js&logoColor=990000&?link=https://www.babylonjs.com/&label=)
 ![3D](https://img.shields.io/static/v1?style=for-the-badge&message=3D&color=222222&?link=&label=)
 ![3D Web](https://img.shields.io/static/v1?style=for-the-badge&message=3D%20Web&color=222222&?link=&label=)
 ![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=blender&color=222222&logo=blender&?link=https://www.blender.org/&label=)
@@ -129,6 +129,7 @@
 
 ![English](https://img.shields.io/static/v1?style=for-the-badge&message=English&color=222222&label=)
 ![French](https://img.shields.io/static/v1?style=for-the-badge&message=French&color=222222&label=)
+![Spanish](https://img.shields.io/static/v1?style=for-the-badge&message=Spanish&color=222222&label=)
 <br/><br/><br/>
 
 ## 📈 GitHub Stats
