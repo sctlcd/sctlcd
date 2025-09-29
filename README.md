@@ -3,7 +3,7 @@
 <br/><br/><br/>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=54&pause=1000&color=bf3434&background=292D3400&center=true&vCenter=true&random=false&width=1100&lines=HELLO,+MY+NAME+===+Lucinda%20Souchet;SPECIALIZATION+===+Creative+Frontend;Web+Development;JavaScript+|+React+|+3D+Web;EXPERIENCE+>+9+years+in+Agile+Software+Industry;INTERESTS+===+Creative+and+interactive+Frontend;web+app+development;3D+Web+|+VR+|+AR+|+MR;Welcome+to+my+profile+page!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=54&pause=1000&color=bf3434&background=292D3400&center=true&vCenter=true&random=false&width=1100&lines=HELLO,+MY+NAME+===+Lucinda%20Souchet;SPECIALIZATION+===+Creative+Frontend;Web+Development;EXPERIENCE+>+9+years+in+Agile+Software+Industry;INTERESTS+===+Creative+and+interactive+Frontend;web+app+development;3D+Web+|+VR+|+AR+|+MR;Welcome+to+my+profile+page!)](https://git.io/typing-svg)
 <br /><br /><br /><br /><br/>
 
 <div>
@@ -108,6 +108,7 @@
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=222222&logo=TypeScript&logoColor=3178C6&?link=https://www.typescriptlang.org/&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React.js&color=222222&logo=react&logoColor=61DAFB&?link=https://reactjs.org/&label=)
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=222222&logo=next.js&logoColor=white&?link=https://nextjs.org/&label=)
+![Astro](https://img.shields.io/static/v1?style=for-the-badge&message=Astro&color=222222&logo=astro&logoColor=BC52EE?link=https://reactjs.org/&label=)
 ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=222222&logo=Sass&logoColor=CC6699&?link=https://sass-lang.com/&label=)
 ![TailwindCSS](https://img.shields.io/static/v1?style=for-the-badge&message=tailwindcss&color=222222&logo=tailwind-css&logoColor=00000&?link=https://tailwindcss.com/&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=222222&logo=CSS3&logoColor=00000&?link=/&label=)
@@ -301,6 +302,13 @@
 
 <a href="https://github.com/sctlcd/js-clock">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=js-clock&show_owner=true&theme=onedark" />
+</a>
+<br/><br/>
+
+### Tailwind CSS
+
+<a href="https://github.com/sctlcd/landing-page">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=landing-page&show_owner=true&theme=onedark" />
 </a>
 <br/><br/>
 
