@@ -1,6 +1,6 @@
 
 <!-- https://capsule-render.vercel.app/ -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Lucinda%20Souchet&fontSize=36&fontColor=222324&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Web+and+3D+Web+Developer&fontSize=36&fontColor=171717&animation=twinkling&fontAlignY=35" />
 <br/><br/>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
@@ -356,4 +356,4 @@
 
 
 <br/><br/><br/><br/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&text=Thank%20you!&fontSize=36&fontColor=292d34&animation=twinkling&fontAlignY=65"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&text=Thank%20you!&fontSize=36&fontColor=171717&animation=twinkling&fontAlignY=65"/>
