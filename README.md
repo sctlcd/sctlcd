@@ -260,7 +260,11 @@
 </a>
 <br/><br/>
 
-<!-- ### Astro -->
+### Astro
+
+<a href="https://github.com/lucindasouchet/zigzag">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucindasouchet&repo=zigzag&show_owner=true&theme=onedark" />
+</a>
 
 ### Angular 11 / 12
 
