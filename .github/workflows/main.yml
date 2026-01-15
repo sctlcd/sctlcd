@@ -42,7 +42,7 @@ jobs:
           outputs: |
             dist/github-snake-light.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/snake-dark.svg?color_snake=#5b2cf2&color_dots=#3f4857,#E59E50,#24D5F7,#f1e05a,#f73936
+            dist/snake-dark.svg?color_snake=#8957e5&color_dots=#3f4857,#E59E50,#24D5F7,#f1e05a,#f73936
             dist/snake-light.svg?color_snake=#5234B2&color_dots=#D4D4D4,#e8881e,#00BCDB,#f7dd0a,#f50d0a
           # https://github.com/rojadesign/iTerm2-Tokyo-Night-Color-Theme
 
