@@ -1,11 +1,11 @@
 
 <!-- https://capsule-render.vercel.app/ -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Web+and+3D+Web+Developer&fontSize=36&fontColor=171717&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Web+and+3D+Web+Developer&fontSize=36&fontColor=&animation=twinkling&fontAlignY=35"/>
 <br/><br/>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=50&pause=200&color=00FF2B&background=292D3400&center=true&vCenter=true&random=false&width=1100&height=200&multiline=false&background=000&lines=HELLO,+MY+NAME+===+Lucinda%20Souchet;SPECIALIZATION+===+Frontend+Web+Development,;3D+Web+Development+and+Creative+Web+Development;EXPERIENCE+>+9+years+in+Agile+Software+Industry;INTERESTS+===+Fullstack,;Creative+and+interactive+web+app+development+and;3D+Web+|+VR+|+AR+|+MR;Welcome+to+my+profile+page!)](https://git.io/typing-svg)
-<br /><br /><br /><br />
+<br/><br/><br/><br/>
 
 <!-- https://shields.io/badges -->
 <!-- https://simpleicons.org/?q=react-i18next -->
@@ -189,171 +189,171 @@
 ### Three.js - Web GL
 
 <a href="https://github.com/sctlcd/react-threejs-minecraft">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-minecraft&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-minecraft&show_owner=true&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/sctlcd/react-threejs-car-racing">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-car-racing&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-car-racing&show_owner=true&theme=tokyonight"/>
 </a>
 <br/><br/>
 
 <a href="https://github.com/sctlcd/threejs-sci-fi-portal-effect">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=threejs-sci-fi-portal-effect&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=threejs-sci-fi-portal-effect&show_owner=true&theme=tokyonight"/>
 </a>
 <br/><br/>
 
 <a href="https://github.com/sctlcd/threejs-lightning-storm">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=threejs-lightning-storm&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=threejs-lightning-storm&show_owner=true&theme=tokyonight"/>
 </a>
 <a href="https://github.com/sctlcd/threejs-rain-storm">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=threejs-rain-storm&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=threejs-rain-storm&show_owner=true&theme=tokyonight"/>
 </a>
 <br/><br/>
 
 <a href="https://github.com/sctlcd/threejs-moon">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=threejs-moon&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=threejs-moon&show_owner=true&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/sctlcd/threejs-first-app">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=threejs-first-app&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=threejs-first-app&show_owner=true&theme=tokyonight"/>
 </a>
 <br/><br/>
 
 <a href="https://github.com/sctlcd/react-threejs-3d-world">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-3d-world&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-3d-world&show_owner=true&theme=tokyonight"/>
 </a>
 <br/><br/>
 
 ### Particules.js
 
 <a href="https://github.com/sctlcd/particlesjs-first-app">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=particlesjs-first-app&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=particlesjs-first-app&show_owner=true&theme=tokyonight"/>
 </a>
 <br/><br/>
 
 ### React 17 / 18
 
 <a href="https://github.com/sctlcd/react-threejs-minecraft">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-minecraft&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-minecraft&show_owner=true&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/sctlcd/react-threejs-car-racing">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-car-racing&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-car-racing&show_owner=true&theme=tokyonight"/>
 </a>
 <br/><br/>
 
 <a href="https://github.com/sctlcd/react-threejs-3d-world">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-3d-world&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-threejs-3d-world&show_owner=true&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/sctlcd/react-tic-tac-toe">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-tic-tac-toe&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-tic-tac-toe&show_owner=true&theme=tokyonight"/>
 </a>
 <br/><br/>
 
 <a href="https://github.com/sctlcd/react-image-carousel">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-image-carousel&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-image-carousel&show_owner=true&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/sctlcd/react-music-bands-list">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-music-bands-list&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-music-bands-list&show_owner=true&theme=tokyonight"/>
 </a>
 <br/><br/>
 
 <a href="https://github.com/sctlcd/react-api-requests">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-api-requests&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-api-requests&show_owner=true&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/sctlcd/react-altitude-controller">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-altitude-controller&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=react-altitude-controller&show_owner=true&theme=tokyonight"/>
 </a>
 <br/><br/>
 
 ### Astro
 
 <a href="https://github.com/lucindasouchet/zigzag">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucindasouchet&repo=zigzag&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucindasouchet&repo=zigzag&show_owner=true&theme=tokyonight"/>
 </a>
 <br/><br/>
 
 ### Angular 11 / 12
 
 <a href="https://github.com/sctlcd/angular-video-search-engine-v2">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=angular-video-search-engine-v2&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=angular-video-search-engine-v2&show_owner=true&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/sctlcd/angular-first-app_tell-me-a-joke">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=angular-first-app_tell-me-a-joke&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=angular-first-app_tell-me-a-joke&show_owner=true&theme=tokyonight"/>
 </a>
 <br/><br/>
 
 ### Vue 3
 
 <a href="https://github.com/sctlcd/vue-threejs-first-app">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=vue-threejs-first-app&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=vue-threejs-first-app&show_owner=true&theme=tokyonight"/>
 </a>
 <br/><br/>
 
 ### JavaScript
 
 <a href="https://github.com/sctlcd/pearl-latest-version">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=pearl-latest-version&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=pearl-latest-version&show_owner=true&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/sctlcd/boutique-ado-customized-latest-version">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=boutique-ado-customized-latest-version&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=boutique-ado-customized-latest-version&show_owner=true&theme=tokyonight"/>
 </a>
 <br/><br/>
 
 <a href="https://github.com/sctlcd/match-the-memory-latest-version">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=match-the-memory-latest-version&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=match-the-memory-latest-version&show_owner=true&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/sctlcd/js-pacman">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=js-pacman&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=js-pacman&show_owner=true&theme=tokyonight"/>
 </a>
 <br/><br/>
 
 <a href="https://github.com/sctlcd/js-simon-game">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=js-simon-game&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=js-simon-game&show_owner=true&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/sctlcd/js-tetris">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=js-tetris&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=js-tetris&show_owner=true&theme=tokyonight"/>
 </a>
 <br/><br/>
 
 <a href="https://github.com/sctlcd/js-drum-kit">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=js-drum-kit&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=js-drum-kit&show_owner=true&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/sctlcd/js-clock">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=js-clock&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=js-clock&show_owner=true&theme=tokyonight"/>
 </a>
 <br/><br/>
 
 ### Tailwind CSS
 
 <a href="https://github.com/sctlcd/landing-page">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=landing-page&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=landing-page&show_owner=true&theme=tokyonight"/>
 </a>
 <br/><br/>
 
 ### Python
 
 <a href="https://github.com/sctlcd/pearl-latest-version">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=pearl-latest-version&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=pearl-latest-version&show_owner=true&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/sctlcd/boutique-ado-customized-latest-version">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=boutique-ado-customized-latest-version&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=boutique-ado-customized-latest-version&show_owner=true&theme=tokyonight"/>
 </a>
 <br/><br/>
 
 <a href="https://github.com/sctlcd/the-green-corner">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=the-green-corner&show_owner=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sctlcd&repo=the-green-corner&show_owner=true&theme=tokyonight"/>
 </a>
 
 
 <br/><br/><br/><br/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&text=Thank%20you!&fontSize=36&fontColor=171717&animation=twinkling&fontAlignY=65"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&text=Thank%20you!&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=65"/>
