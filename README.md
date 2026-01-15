@@ -1,10 +1,10 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bf3434&height=200&section=header&text=Lucinda%20Souchet&fontSize=32&fontColor=292d34&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=200&section=header&text=Lucinda%20Souchet&fontSize=32&fontColor=222324&animation=twinkling&fontAlignY=35" />
 <br/><br/><br/>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=54&pause=1000&color=bf3434&background=292D3400&center=true&vCenter=true&random=false&width=1100&lines=HELLO,+MY+NAME+===+Lucinda%20Souchet;SPECIALIZATION+===+Creative+Frontend;Web+Development;EXPERIENCE+>+9+years+in+Agile+Software+Industry;INTERESTS+===+Creative+and+interactive+Frontend;web+app+development;3D+Web+|+VR+|+AR+|+MR;Welcome+to+my+profile+page!)](https://git.io/typing-svg)
-<br /><br /><br /><br /><br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=54&pause=200&color=00FF2B&background=292D3400&center=true&vCenter=true&random=false&width=1100&height=200&multiline=false&background=000&lines=HELLO,+MY+NAME+===+Lucinda%20Souchet;SPECIALIZATION+===+Frontend+Web+Development,;3D+Web+Development+and+Creative+Web+Development;EXPERIENCE+>+9+years+in+Agile+Software+Industry;INTERESTS+===+Fullstack,;Creative+and+interactive+web+app+development+and;3D+Web+|+VR+|+AR+|+MR;Welcome+to+my+profile+page!)](https://git.io/typing-svg)
+<br /><br /><br /><br />
 
 <div>
   <!-- Profile views -->
@@ -106,24 +106,35 @@
 
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&?link=https://www.javascript.com/&label=)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=222222&logo=TypeScript&logoColor=3178C6&?link=https://www.typescriptlang.org/&label=)
-![React](https://img.shields.io/static/v1?style=for-the-badge&message=React.js&color=222222&logo=react&logoColor=61DAFB&?link=https://reactjs.org/&label=)
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=react&logoColor=61DAFB&?link=https://reactjs.org/&label=)
+![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=222222&logo=angular&?link=https://angular.dev/&label=)
+![Vue](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=vue.js&logoColor=4FC08D&?link=https://vuejs.org/&label=)
+![Astro](https://img.shields.io/static/v1?style=for-the-badge&message=Astro&color=222222&logo=astro&logoColor=BC52EE?link=https://astro.build/&label=)
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=222222&logo=next.js&logoColor=white&?link=https://nextjs.org/&label=)
-![Astro](https://img.shields.io/static/v1?style=for-the-badge&message=Astro&color=222222&logo=astro&logoColor=BC52EE?link=https://reactjs.org/&label=)
+![Nuxt](https://img.shields.io/static/v1?style=for-the-badge&message=Nuxt&color=222222&logo=nuxt&logoColor=00DC82&?link=https://nuxt.com/&label=)
+![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=tailwind+css&color=222222&logo=tailwind-css&logoColor=00000&?link=https://tailwindcss.com/&label=)
+![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=bootstrap&color=222222&logo=bootstrap&logoColor=00000&?link=https://getbootstrap.com/&label=)
 ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=222222&logo=Sass&logoColor=CC6699&?link=https://sass-lang.com/&label=)
-![TailwindCSS](https://img.shields.io/static/v1?style=for-the-badge&message=tailwindcss&color=222222&logo=tailwind-css&logoColor=00000&?link=https://tailwindcss.com/&label=)
-![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=222222&logo=CSS3&logoColor=00000&?link=/&label=)
+![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS&color=222222&logo=CSS&logoColor=663399&?link=https://developer.mozilla.org/en-US/docs/Web/CSS/&label=)
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=222222&logo=HTML5&logoColor=E34F26&?link=https://html.spec.whatwg.org/&label=)
-![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=node.js&color=222222&logo=node.js&?link=https://www.python.org/&label=)
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=python&color=222222&logo=python&?link=https://www.python.org/&label=)
-![Three.js](https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=222222&logo=Three.js&logoColor=white&?link=https://threejs.org/&label=)
+![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=node.js&color=222222&logo=node.js&logoColor=5FA04E&?link=https://nodejs.org/en&label=)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=python&color=222222&logo=python&logoColor=3776AB?link=https://www.python.org/&label=)
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=git&color=222222&logo=git&logoColor=&?link=https://git-scm.com/&label=)
+![Vite](https://img.shields.io/static/v1?style=for-the-badge&message=vite&color=222222&logo=vite&logoColor=646CFF&?link=https://vite.dev/&label=)
+![i18next](https://img.shields.io/static/v1?style=for-the-badge&message=i18next&color=222222&logo=i18next&logoColor=26A69A&?link=&label=)
+![react-i18next](https://img.shields.io/static/v1?style=for-the-badge&message=react-i18next&color=222222&logo=&logoColor=&?link=&label=)
+![RESTfull APIs](https://img.shields.io/static/v1?style=for-the-badge&message=RESTfull+APIs&color=222222&logo=&logoColor=?link=&label=)
+<br/>
+
+![Three.js](https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=222222&logo=Three.js&logoColor=fff&?link=https://threejs.org/&label=)
 ![WebGL](https://img.shields.io/static/v1?style=for-the-badge&message=WebGL&color=222222&logo=WebGL&logoColor=990000&?link=https://www.khronos.org/webgl/&label=)
-![React Three Drei](https://img.shields.io/static/v1?style=for-the-badge&message=react%20three%20drei&color=222222&logo=react%20three%20drei&?link=https://github.com/pmndrs/drei/&label=)
-![React Three Cannon](https://img.shields.io/static/v1?style=for-the-badge&message=react%20three%20cannon&color=222222&logo=react%20three%20cannon&?link=https://github.com/pmndrs/use-cannon/&label=)
-![React Three Fiber](https://img.shields.io/static/v1?style=for-the-badge&message=react%20three%20fiber&color=222222&logo=react%20three%20fiber&?link=https://docs.pmnd.rs/react-three-fiber/getting-started/introduction/&label=)
+![React Three Drei](https://img.shields.io/static/v1?style=for-the-badge&message=react%20three%20drei&color=222222&logo=link=https://github.com/pmndrs/drei/&label=)
+![React Three Cannon](https://img.shields.io/static/v1?style=for-the-badge&message=react%20three%20cannon&color=222222&logo=&?link=https://github.com/pmndrs/use-cannon/&label=)
+![React Three Fiber](https://img.shields.io/static/v1?style=for-the-badge&message=react%20three%20fiber&color=222222&logo=&?link=https://docs.pmnd.rs/react-three-fiber/getting-started/introduction/&label=)
 ![Babylon.js](https://img.shields.io/static/v1?style=for-the-badge&message=Babylon.js&color=222222&logo=Babylon.js&logoColor=990000&?link=https://www.babylonjs.com/&label=)
 ![3D](https://img.shields.io/static/v1?style=for-the-badge&message=3D&color=222222&?link=&label=)
 ![3D Web](https://img.shields.io/static/v1?style=for-the-badge&message=3D%20Web&color=222222&?link=&label=)
-![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=blender&color=222222&logo=blender&?link=https://www.blender.org/&label=)
+![Blender](https://img.shields.io/static/v1?style=for-the-badge&message=blender&color=222222&logo=blender&logoColor=E87D0D&?link=https://www.blender.org/&label=)
 <br/>
 
 ### 💬 Languages
@@ -249,6 +260,12 @@
 </a>
 <br/><br/>
 
+### Astro
+
+<a href="https://github.com/lucindasouchet/zigzag">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucindasouchet&repo=zigzag&show_owner=true&theme=onedark" />
+</a>
+
 ### Angular 11 / 12
 
 <a href="https://github.com/sctlcd/angular-video-search-engine-v2">
@@ -329,4 +346,4 @@
 
 
 <br/><br/><br/><br/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bf3434&height=200&section=footer&text=Thank%20you!&fontSize=28&fontColor=292d34&animation=twinkling&fontAlignY=65" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=200&section=footer&text=Thank%20you!&fontSize=28&fontColor=292d34&animation=twinkling&fontAlignY=65" />
