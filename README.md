@@ -1,6 +1,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=200&section=header&text=Lucinda%20Souchet&fontSize=32&fontColor=222324&animation=twinkling&fontAlignY=35" />
-<br/><br/><br/>
+<br/><br/>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=54&pause=200&color=00FF2B&background=292D3400&center=true&vCenter=true&random=false&width=1100&height=200&multiline=false&background=000&lines=HELLO,+MY+NAME+===+Lucinda%20Souchet;SPECIALIZATION+===+Frontend+Web+Development,;3D+Web+Development+and+Creative+Web+Development;EXPERIENCE+>+9+years+in+Agile+Software+Industry;INTERESTS+===+Fullstack,;Creative+and+interactive+web+app+development+and;3D+Web+|+VR+|+AR+|+MR;Welcome+to+my+profile+page!)](https://git.io/typing-svg)
@@ -260,7 +260,11 @@
 </a>
 <br/><br/>
 
-<!-- ### Astro -->
+### Astro
+
+<a href="https://github.com/lucindasouchet/zigzag">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucindasouchet&repo=zigzag&show_owner=true&theme=onedark" />
+</a>
 
 ### Angular 11 / 12
 
