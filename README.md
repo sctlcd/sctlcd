@@ -127,7 +127,7 @@
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=git&color=222222&logo=git&logoColor=&?link=https://git-scm.com/&label=)
 ![Vite](https://img.shields.io/static/v1?style=for-the-badge&message=vite&color=222222&logo=vite&logoColor=646CFF&?link=https://vite.dev/&label=)
 ![i18next](https://img.shields.io/static/v1?style=for-the-badge&message=i18next&color=222222&logo=i18next&logoColor=26A69A&?link=&label=)
-![react-i18next](https://img.shields.io/static/v1?style=for-the-badge&message=react-i18next&color=222222&logo=&logoColor=&?link=&label=)
+![react-i18next](https://img.shields.io/static/v1?style=for-the-badge&message=react-i18next&color=222222&logo=i18next&logoColor=&?link=&label=)
 ![RESTfull APIs](https://img.shields.io/static/v1?style=for-the-badge&message=RESTfull+APIs&color=222222&logo=&logoColor=?link=&label=)
 <br/>
 
