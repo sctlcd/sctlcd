@@ -188,95 +188,95 @@
 
 ### Three.js - Web GL
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-threejs-minecraft&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/react-threejs-minecraft)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-threejs-minecraft&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/react-threejs-minecraft)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-threejs-car-racing&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/react-threejs-car-racing)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-threejs-car-racing&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/react-threejs-car-racing)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fthreejs-sci-fi-portal-effect&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/threejs-sci-fi-portal-effect)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fthreejs-sci-fi-portal-effect&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/threejs-sci-fi-portal-effect)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fthreejs-lightning-storm&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/threejs-lightning-storm)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fthreejs-lightning-storm&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/threejs-lightning-storm)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fthreejs-rain-storm&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/threejs-rain-storm)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fthreejs-rain-storm&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/threejs-rain-storm)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fthreejs-moon&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/threejs-moon)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fthreejs-moon&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/threejs-moon)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fthreejs-first-app&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/threejs-first-app)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fthreejs-first-app&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/threejs-first-app)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-threejs-3d-world&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/react-threejs-3d-world)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-threejs-3d-world&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/react-threejs-3d-world)
 <br/><br/>
 
 ### Particules.js
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fparticlesjs-first-app&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/particlesjs-first-app)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fparticlesjs-first-app&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/particlesjs-first-app)
 <br/><br/>
 
 ### React 17 / 18
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-threejs-minecraft&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/react-threejs-minecraft)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-threejs-minecraft&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/react-threejs-minecraft)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-threejs-car-racing&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/react-threejs-car-racing)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-threejs-car-racing&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/react-threejs-car-racing)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-threejs-3d-world&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/react-threejs-3d-world)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-threejs-3d-world&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/react-threejs-3d-world)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-tic-tac-toe&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/react-tic-tac-toe)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-tic-tac-toe&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/react-tic-tac-toe)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-image-carousel&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/react-image-carousel)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-image-carousel&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/react-image-carousel)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-music-bands-list&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/react-music-bands-list)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-music-bands-list&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/react-music-bands-list)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-api-requests&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/react-api-requests)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-api-requests&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/react-api-requests)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-altitude-controller&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/react-altitude-controller)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-altitude-controller&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/react-altitude-controller)
 <br/><br/>
 
 ### Astro
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=lucindasouchet%2Fzigzag&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/lucindasouchet/zigzag)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=lucindasouchet%2Fzigzag&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/lucindasouchet/zigzag)
 <br/><br/>
 
 ### Angular 11 / 12
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fangular-video-search-engine-v2&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/angular-video-search-engine-v2)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fangular-video-search-engine-v2&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/angular-video-search-engine-v2)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fangular-first-app_tell-me-a-joke&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/angular-first-app_tell-me-a-joke)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fangular-first-app_tell-me-a-joke&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/angular-first-app_tell-me-a-joke)
 <br/><br/>
 
 ### Vue 3
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fvue-threejs-first-app&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/vue-threejs-first-app)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fvue-threejs-first-app&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/vue-threejs-first-app)
 <br/><br/>
 
 ### JavaScript
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fpearl-latest-version&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/pearl-latest-version)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fpearl-latest-version&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/pearl-latest-version)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fboutique-ado-customized-latest-version&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/boutique-ado-customized-latest-version)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fboutique-ado-customized-latest-version&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/boutique-ado-customized-latest-version)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fmatch-the-memory-latest-version&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/match-the-memory-latest-version)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fmatch-the-memory-latest-version&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/match-the-memory-latest-version)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fjs-pacman&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/js-pacman)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fjs-pacman&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/js-pacman)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fjs-simon-game&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/js-simon-game)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fjs-simon-game&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/js-simon-game)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fjs-tetris&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/js-tetris)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fjs-tetris&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/js-tetris)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fjs-drum-kit&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/js-drum-kit)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fjs-drum-kit&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/js-drum-kit)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fjs-clock&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/js-clock)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fjs-clock&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/js-clock)
 <br/><br/>
 
 ### Tailwind CSS
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Flanding-page&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/landing-page)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Flanding-page&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/landing-page)
 <br/><br/>
 
 ### Python
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fpearl-latest-version&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/pearl-latest-version)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fpearl-latest-version&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/pearl-latest-version)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fboutique-ado-customized-latest-version&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/boutique-ado-customized-latest-version)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fboutique-ado-customized-latest-version&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/boutique-ado-customized-latest-version)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fthe-green-corner&show_owner=true&theme=tokyonight&card_width=430px)](https://github.com/sctlcd/the-green-corner)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fthe-green-corner&show_owner=true&theme=tokyonight&card_width=450px)](https://github.com/sctlcd/the-green-corner)
 
 
 <br/><br/><br/><br/>
