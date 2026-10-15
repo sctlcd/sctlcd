@@ -188,13 +188,13 @@
 
 ### Three.js - Web GL
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-threejs-minecraft&show_owner=true&theme=tokyonight&)](https://github.com/sctlcd/react-threejs-minecraft)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-threejs-minecraft&show_owner=true&theme=tokyonight&card_width=400px)](https://github.com/sctlcd/react-threejs-minecraft)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-threejs-car-racing&show_owner=true&theme=tokyonight)](https://github.com/sctlcd/react-threejs-car-racing)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Freact-threejs-car-racing&show_owner=true&theme=tokyonight&card_width=400px)](https://github.com/sctlcd/react-threejs-car-racing)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fthreejs-sci-fi-portal-effect&show_owner=true&theme=tokyonight)](https://github.com/sctlcd/threejs-sci-fi-portal-effect)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fthreejs-sci-fi-portal-effect&show_owner=true&theme=tokyonight&card_width=400px)](https://github.com/sctlcd/threejs-sci-fi-portal-effect)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fthreejs-lightning-storm&show_owner=true&theme=tokyonight)](https://github.com/sctlcd/threejs-lightning-storm)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fthreejs-lightning-storm&show_owner=true&theme=tokyonight&card_width=400px)](https://github.com/sctlcd/threejs-lightning-storm)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=sctlcd&repo=sctlcd%2Fthreejs-rain-storm&show_owner=true&theme=tokyonight)](https://github.com/sctlcd/threejs-rain-storm)
 
